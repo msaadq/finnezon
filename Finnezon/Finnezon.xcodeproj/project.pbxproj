@@ -18,6 +18,15 @@
 		936BFEFF27FBA2C7003A39E3 /* AdsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEFE27FBA2C7003A39E3 /* AdsService.swift */; };
 		936BFF0027FBA2C7003A39E3 /* AdsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEFE27FBA2C7003A39E3 /* AdsService.swift */; };
 		936BFF0127FBA2C7003A39E3 /* AdsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEFE27FBA2C7003A39E3 /* AdsService.swift */; };
+		936BFF0327FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */; };
+		936BFF0427FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */; };
+		936BFF0527FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */; };
+		936BFF0727FBAA35003A39E3 /* AdsHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */; };
+		936BFF0827FBAA35003A39E3 /* AdsHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */; };
+		936BFF0927FBAA35003A39E3 /* AdsHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */; };
+		936BFF0B27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
+		936BFF0C27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
+		936BFF0D27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
 		93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */; };
 		93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB727FAFA2C00BFA12C /* ContentView.swift */; };
 		93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */; };
@@ -58,6 +67,9 @@
 		936BFEF627FB5E69003A39E3 /* DataFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFetcher.swift; sourceTree = "<group>"; };
 		936BFEFA27FB9EAF003A39E3 /* AdItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdItem.swift; sourceTree = "<group>"; };
 		936BFEFE27FBA2C7003A39E3 /* AdsService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsService.swift; sourceTree = "<group>"; };
+		936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsHomeViewModel.swift; sourceTree = "<group>"; };
+		936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsHomeView.swift; sourceTree = "<group>"; };
+		936BFF0A27FBABBD003A39E3 /* ad-items-response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "ad-items-response.json"; sourceTree = "<group>"; };
 		93FB2CB227FAFA2C00BFA12C /* Finnezon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finnezon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonApp.swift; sourceTree = "<group>"; };
 		93FB2CB727FAFA2C00BFA12C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -156,6 +168,7 @@
 		93FB2CBB27FAFA2D00BFA12C /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				936BFF0A27FBABBD003A39E3 /* ad-items-response.json */,
 				93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -199,6 +212,8 @@
 			isa = PBXGroup;
 			children = (
 				93FB2CB727FAFA2C00BFA12C /* ContentView.swift */,
+				936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */,
+				936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -348,6 +363,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFF0B27FBABBD003A39E3 /* ad-items-response.json in Resources */,
 				93FB2CBD27FAFA2D00BFA12C /* Preview Assets.xcassets in Resources */,
 				93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */,
 			);
@@ -357,6 +373,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFF0C27FBABBD003A39E3 /* ad-items-response.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -364,6 +381,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFF0D27FBABBD003A39E3 /* ad-items-response.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -379,7 +397,9 @@
 				936BFEF127FB019A003A39E3 /* CoordinatorProtocol.swift in Sources */,
 				93FB2CC227FAFA2D00BFA12C /* Finnezon.xcdatamodeld in Sources */,
 				93FB2CBF27FAFA2D00BFA12C /* Persistence.swift in Sources */,
+				936BFF0727FBAA35003A39E3 /* AdsHomeView.swift in Sources */,
 				93FB2CED27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
+				936BFF0327FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */,
 				936BFEFF27FBA2C7003A39E3 /* AdsService.swift in Sources */,
 				93FB2CF527FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
 				93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */,
@@ -392,11 +412,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFF0827FBAA35003A39E3 /* AdsHomeView.swift in Sources */,
 				936BFEFC27FB9EAF003A39E3 /* AdItem.swift in Sources */,
 				93FB2CF627FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
 				936BFF0027FBA2C7003A39E3 /* AdsService.swift in Sources */,
 				936BFEF827FB5E69003A39E3 /* DataFetcher.swift in Sources */,
 				93FB2CCC27FAFA2D00BFA12C /* FinnezonTests.swift in Sources */,
+				936BFF0427FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */,
 				93FB2CEE27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -411,7 +433,9 @@
 				93FB2CD627FAFA2D00BFA12C /* FinnezonUITests.swift in Sources */,
 				93FB2CEF27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
 				936BFEFD27FB9EAF003A39E3 /* AdItem.swift in Sources */,
+				936BFF0527FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */,
 				93FB2CF727FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+				936BFF0927FBAA35003A39E3 /* AdsHomeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

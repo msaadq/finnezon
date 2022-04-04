@@ -8,10 +8,21 @@
 import Foundation
 
 protocol DependencyContainerProtocol {
-//    var imageService: ImageService { get }
-//    var adService: AdService { get }
+    var adsService: AdsServiceProtocol { get }
 }
 
 final class DependencyContainer: DependencyContainerProtocol {
-    
+    var adsService: AdsServiceProtocol
+
+    init(dataFetcher: DataFetcher = DataFetcher()) {
+        self.adsService = AdsService(dataFetcher: dataFetcher)
+    }
+}
+
+final class PreviewDependencyContainer: DependencyContainerProtocol {
+    var adsService: AdsServiceProtocol
+
+    init() {
+        self.adsService = MockAdsService()
+    }
 }

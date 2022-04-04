@@ -97,3 +97,26 @@ final class AdsService: AdsServiceProtocol {
             .eraseToAnyPublisher()
     }
 }
+
+// MARK: - MockAdsService
+final class MockAdsService: AdsServiceProtocol {
+    // Retrieves ad items from the local JSON file for testing and preview purposes
+    func loadAllAds() -> AnyPublisher<[AdItem], AdsServiceError> {
+        let decoder = JSONDecoder()
+
+        guard
+            let localURL = Bundle.main.url(forResource: "ad-items-response", withExtension: "json"),
+            let data = try? Data(contentsOf: localURL),
+            let adItemsResponse = try? decoder.decode(AdItemsResponse.self, from: data),
+            let adItems = adItemsResponse.items,
+            adItems.isEmpty == false
+        else {
+            return Fail(error: AdsServiceError.noAds)
+                .eraseToAnyPublisher()
+        }
+
+        return Just(adItems)
+            .setFailureType(to: AdsServiceError.self)
+            .eraseToAnyPublisher()
+    }
+}

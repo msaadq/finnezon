@@ -1,0 +1,4802 @@
+{
+  "isPersonal": false,
+  "hasConsent": false,
+  "items": [
+    {
+      "description": "Composite ARF Extra 2,6m",
+      "id": "252099759",
+      "url": "/252099759",
+      "ad-type": "BAP",
+      "location": "Siljan",
+      "type": "AD",
+      "price": {
+        "value": 15000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/099/759_626536615.jpg",
+        "height": 480,
+        "width": 640,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.21274403,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252099759",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Enebolig med flere bygg - behov for oppgradering/ferdigstillelse - kort vei til Oslo og marka",
+      "id": "251756455",
+      "url": "/251756455",
+      "ad-type": "REALESTATE",
+      "location": "Nittedal",
+      "type": "AD",
+      "price": {
+        "value": 3400000,
+        "total": 3486342
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/5/251/756/455_632437478.jpg",
+        "height": 1600,
+        "width": 2400,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.19763586,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251756455",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Playstation 4 slim",
+      "id": "252086145",
+      "url": "/252086145",
+      "ad-type": "BAP",
+      "location": "Nyborg",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/086/145_1848082794.jpg",
+        "height": 2625,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.19107823,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252086145",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "dreiebenk",
+      "id": "252146519",
+      "url": "/252146519",
+      "ad-type": "BAP",
+      "location": "Fana",
+      "type": "AD",
+      "price": {
+        "value": 5000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/146/519_1893634147.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.18773046,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252146519",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "NYE Fjellskisko Alfa Skarvet Advance gtx w",
+      "id": "251926013",
+      "url": "/251926013",
+      "ad-type": "BAP",
+      "location": "Færvik",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/251/926/013_1869278.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.18221532,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251926013",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Flotte ting fra dødsbo selges",
+      "id": "251971452",
+      "url": "/251971452",
+      "ad-type": "BAP",
+      "location": "Krokstadelva",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/20/2/251/971/452_1610644052.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.18076956,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251971452",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Sjelden mulighet m/BESTE beliggenhet ved sjøen! Seksjon m/2 enheter på hhv 119m² og 64m² - 2 båtplasser - Nydelig utsikt",
+      "id": "251890556",
+      "url": "/251890556",
+      "ad-type": "REALESTATE",
+      "location": "Tjøme",
+      "type": "AD",
+      "price": {
+        "value": 4500000,
+        "total": 4625842
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/6/251/890/556_682287284.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.17588075,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251890556",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Penthouse selveierleilighet supersentralt beliggende øverst på Torget med flott utsikt. 2 soverom. Balkong. 2 wc.",
+      "id": "251932659",
+      "url": "/251932659",
+      "ad-type": "REALESTATE",
+      "location": "Tønsberg",
+      "type": "AD",
+      "price": {
+        "value": 3590000,
+        "total": 3689092
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/9/251/932/659_1188146615.jpg",
+        "height": 1065,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1752444,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251932659",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "F18, F35 og F16",
+      "id": "252125765",
+      "url": "/252125765",
+      "ad-type": "BAP",
+      "location": "Rjukan",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/125/765_737128045.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.17450768,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252125765",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nydelig softshelldress til vår og høstbruk",
+      "id": "251872360",
+      "url": "/251872360",
+      "ad-type": "BAP",
+      "location": "Stavern",
+      "type": "AD",
+      "price": {
+        "value": 150
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/0/251/872/360_1594383651.jpg",
+        "height": 3369,
+        "width": 1985,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1676369,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251872360",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "John Deere 1055 2000, kr 100 000,-",
+      "id": "252135113",
+      "url": "/252135113",
+      "ad-type": "B2B",
+      "location": "Rendalen",
+      "type": "AD",
+      "price": {
+        "value": 100000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/3/252/135/113_1787290515.jpg",
+        "height": 2736,
+        "width": 3648,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.16139542,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252135113",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nå kan boligannonsen din få enda mer trafikk på FINN eiendom",
+      "id": "https://www.finn.no/realestate/artikler/kjope-bolig/na-kan-boligannonsen-din-fa-enda-mer-trafikk-pa-finn-eiendom",
+      "url": "https://www.finn.no/realestate/artikler/kjope-bolig/na-kan-boligannonsen-din-fa-enda-mer-trafikk-pa-finn-eiendom?pos=recommendation",
+      "ad-type": "CMS",
+      "type": "AD",
+      "image": {
+        "url": "https://finn-content-hub.imgix.net/bilder/Eiendom/Stor_pakke_FINN_eiendom.png?auto=compress%2Cformat&crop=focalpoint&domain=finn-content-hub.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=360&ixlib=php-3.3.1&w=360",
+        "type": "EXTERNAL",
+        "scalable": true
+      },
+      "overlay": {
+        "cms": {
+          "label": "Nyttige artikler"
+        },
+        "minColumns": 1
+      },
+      "score": 1.0,
+      "version": "mul-pop-thompzon.cms_fp_rnd"
+    },
+    {
+      "description": "Spennende 2-R oppussingsobjekt i populære Søylegården | God takhøyde | Pipeløp | Originale tregulv | Idyllisk bakgård",
+      "id": "251971229",
+      "url": "/251971229",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3800000,
+        "total": 3861798
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/9/251/971/229_657406433.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.16126442,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251971229",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klassisk, arkitekttegnet enebolig m/1247 kvm tomt | Grenser mot friområde| Dobbel garasje| Svært attraktiv beliggenhet",
+      "id": "251740532",
+      "url": "/251740532",
+      "ad-type": "REALESTATE",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 14500000,
+        "total": 14863670
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/2/251/740/532_1853415428.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.15520623,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251740532",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Scania R620  6x4 hydraulikk 2010, 613 000 km, kr 395 000,-",
+      "id": "250695341",
+      "url": "/250695341",
+      "ad-type": "B2B",
+      "location": "Notodden",
+      "type": "AD",
+      "price": {
+        "value": 395000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/1/250/695/341_859582903.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.15276556,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "250695341",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nyoppusset og lekker 5-roms hjørneleilighet m ettertraktet beliggenhet! Sydvendt og solrik balkong. Kakkelovn. 2bad/3sov",
+      "id": "251632542",
+      "url": "/251632542",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 17900000,
+        "total": 18373700
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/2/251/632/542_673084949.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.15176213,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251632542",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "KAMPEN: Unik enebolig o/3 etasjer med takterrasse, markterrasse og hage. Familievennlig planløsning. Sjelden mulighet!",
+      "id": "251721524",
+      "url": "/251721524",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 13000000,
+        "total": 13326378
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/4/251/721/524_321377176.jpg",
+        "height": 1199,
+        "width": 1800,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.15136483,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251721524",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lys og attraktiv 4-roms topp- og endeleilighet med solrik takterrasse. Garasjeplass, heis og 24 kvm ekstra lagringsareal",
+      "id": "251932651",
+      "url": "/251932651",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 10500000,
+        "total": 10932736
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/1/251/932/651_1479756169.jpg",
+        "height": 719,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14886528,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251932651",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Flott familiebolig med garasje på 41 kvm | hage | 5 soverom | utsikt | gode solforhold",
+      "id": "251552398",
+      "url": "/251552398",
+      "ad-type": "REALESTATE",
+      "location": "Egersund",
+      "type": "AD",
+      "price": {
+        "value": 5290000,
+        "total": 5423592
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/8/251/552/398_103182690.jpg",
+        "height": 1066,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14841753,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251552398",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Silkestrøken Rolex GMT-Master ll 2020/ 126710BLNR / Batgirl",
+      "id": "251561755",
+      "url": "/251561755",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 239000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/5/251/561/755_1405265212.jpg",
+        "height": 1280,
+        "width": 960,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14822583,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251561755",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lee Ivy",
+      "id": "251943762",
+      "url": "/251943762",
+      "ad-type": "BAP",
+      "location": "Moss",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/2/251/943/762_696692080.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14682871,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251943762",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Selges",
+      "id": "252044072",
+      "url": "/252044072",
+      "ad-type": "BAP",
+      "location": "Neslandsvatn",
+      "type": "AD",
+      "price": {
+        "value": 30000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/2/252/044/072_787428547.jpg",
+        "height": 1632,
+        "width": 1224,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14682406,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252044072",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gymshark sett",
+      "id": "251973032",
+      "url": "/251973032",
+      "ad-type": "BAP",
+      "location": "Eidsvoll Verk",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/20/2/251/973/032_157809924.png",
+        "height": 2778,
+        "width": 1284,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14650077,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251973032",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Hunter Støvler",
+      "id": "251862480",
+      "url": "/251862480",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 100
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/0/251/862/480_773100694.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14645307,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251862480",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Vedkløyver",
+      "id": "252102454",
+      "url": "/252102454",
+      "ad-type": "BAP",
+      "location": "Nesodden",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/102/454_1977234587.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14474621,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252102454",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "18 stk LP plater selges",
+      "id": "245437861",
+      "url": "/245437861",
+      "ad-type": "BAP",
+      "location": "Ågotnes",
+      "type": "AD",
+      "price": {
+        "value": 30
+      },
+      "image": {
+        "url": "2022/1/vertical-0/19/1/245/437/861_1856620162.jpg",
+        "height": 1512,
+        "width": 2016,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1442857,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "245437861",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Våpen Antikk",
+      "id": "252119465",
+      "url": "/252119465",
+      "ad-type": "BAP",
+      "location": "Horten",
+      "type": "AD",
+      "price": {
+        "value": 2500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/119/465_754854043.jpg",
+        "height": 4032,
+        "width": 1816,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14421457,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252119465",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Alt gis bort. LES ANNONSE",
+      "id": "252137548",
+      "url": "/252137548",
+      "ad-type": "BAP",
+      "location": "Trondheim",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/137/548_487899515.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14350288,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252137548",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fantastisk fin og lys 3-R smakfullt oppusset i 2020 I Solrik vestvendt balkong I Klassiske detaljer I Vedovn I Bør sees!",
+      "id": "251924809",
+      "url": "/251924809",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 6700000,
+        "total": 6988999
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/9/251/924/809_319170943.jpg",
+        "height": 1065,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14340484,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251924809",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klatrestativ",
+      "id": "251944306",
+      "url": "/251944306",
+      "ad-type": "BAP",
+      "location": "Eiksmarka",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/6/251/944/306_1879209386.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1425676,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251944306",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lenovo nettbrett",
+      "id": "251900572",
+      "url": "/251900572",
+      "ad-type": "BAP",
+      "location": "Hønefoss",
+      "type": "AD",
+      "price": {
+        "value": 399
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/2/251/900/572_1600182792.jpg",
+        "height": 1940,
+        "width": 960,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14230941,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251900572",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klespakke 98/104",
+      "id": "245234402",
+      "url": "/245234402",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/1/vertical-0/17/2/245/234/402_410350066.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14203063,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "245234402",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Flott, eksklusiv enebolig med påkostet og skjermet hage - 4 soverom - Dobbel garasje - Bergvarme",
+      "id": "251884878",
+      "url": "/251884878",
+      "ad-type": "REALESTATE",
+      "location": "Borgenhaugen",
+      "type": "AD",
+      "price": {
+        "value": 7200000,
+        "total": 7397842
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/8/251/884/878_1942023198.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1416153,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251884878",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Playstation 4",
+      "id": "252051495",
+      "url": "/252051495",
+      "ad-type": "BAP",
+      "location": "Tiller",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/051/495_711437818.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14105141,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252051495",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Ballkjole",
+      "id": "239479945",
+      "url": "/239479945",
+      "ad-type": "BAP",
+      "location": "Bærums Verk",
+      "type": "AD",
+      "price": {
+        "value": 3900
+      },
+      "image": {
+        "url": "2021/11/vertical-0/21/5/239/479/945_533089415.jpg",
+        "height": 2732,
+        "width": 2261,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14088984,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "239479945",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "19lg lego",
+      "id": "252074125",
+      "url": "/252074125",
+      "ad-type": "BAP",
+      "location": "Sande i Vestfold",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/074/125_1809737897.jpg",
+        "height": 2000,
+        "width": 1500,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14076726,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252074125",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Bukser",
+      "id": "251522542",
+      "url": "/251522542",
+      "ad-type": "BAP",
+      "location": "Frogner",
+      "type": "AD",
+      "price": {
+        "value": 200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/2/251/522/542_1094022545.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14063291,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251522542",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Softshelldress med Peppa gris i str 110",
+      "id": "251993185",
+      "url": "/251993185",
+      "ad-type": "BAP",
+      "location": "Mysen",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/993/185_751882063.jpg",
+        "height": 2016,
+        "width": 1512,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14005634,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251993185",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stiga Basic Roller Bordtennisbord",
+      "id": "251989943",
+      "url": "/251989943",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 900
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/251/989/943_26659548.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.14000115,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251989943",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Scott Speedster CX",
+      "id": "252118562",
+      "url": "/252118562",
+      "ad-type": "BAP",
+      "location": "Sør-Fron",
+      "type": "AD",
+      "price": {
+        "value": 5500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/2/252/118/562_1760554843.jpg",
+        "height": 3024,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13959518,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252118562",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gammel dreiebenk gies bort.",
+      "id": "158511797",
+      "url": "/158511797",
+      "ad-type": "BAP",
+      "location": "Blomsterdalen",
+      "type": "AD",
+      "image": {
+        "url": "2019/9/vertical-5/23/7/158/511/797_789677816.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13912144,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "158511797",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Ski",
+      "id": "251989874",
+      "url": "/251989874",
+      "ad-type": "BAP",
+      "location": "Loddefjord",
+      "type": "AD",
+      "price": {
+        "value": 200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/4/251/989/874_901344876.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13837467,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251989874",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "huskestativ",
+      "id": "232424789",
+      "url": "/232424789",
+      "ad-type": "BAP",
+      "location": "Lillestrøm",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2021/9/vertical-0/19/9/232/424/789_827656101.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13827245,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "232424789",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Møhlenpris | Flott toppleil. med to balkonger og nydelig lysinnslipp. Tregulv, to stuer, rosetter og listverk. Nytt bad!",
+      "id": "251795192",
+      "url": "/251795192",
+      "ad-type": "REALESTATE",
+      "location": "Bergen",
+      "type": "AD",
+      "price": {
+        "value": 5490000,
+        "total": 5742299
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/2/251/795/192_781964372.jpg",
+        "height": 1066,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13820426,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251795192",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "PÅKOSTET, STRØKEN & LEKKER 5-ROMS | 2 BALKONGER  | SELVEIER | PANORAMAUTSIKT | STANDARD FRA 19´| GARASJE | 2 BAD |",
+      "id": "251952122",
+      "url": "/251952122",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 6500000,
+        "total": 6761154
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/2/251/952/122_1607751258.jpg",
+        "height": 1068,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13766378,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251952122",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gamle VHS selges",
+      "id": "251741354",
+      "url": "/251741354",
+      "ad-type": "BAP",
+      "location": "Greåker",
+      "type": "AD",
+      "price": {
+        "value": 234
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/4/251/741/354_48778878.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13704301,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251741354",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Kenwood major",
+      "id": "251972131",
+      "url": "/251972131",
+      "ad-type": "BAP",
+      "location": "Grimstad",
+      "type": "AD",
+      "price": {
+        "value": 600
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/251/972/131_1327277352.jpg",
+        "height": 2868,
+        "width": 2602,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13663042,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251972131",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Samsung 34\" Odyssey G5",
+      "id": "251962187",
+      "url": "/251962187",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 999
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/7/251/962/187_1710983938.jpg",
+        "height": 1364,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13475376,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251962187",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "1000 Nudes, Uwe Scheie Collection",
+      "id": "251779324",
+      "url": "/251779324",
+      "ad-type": "BAP",
+      "location": "Rakkestad",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/4/251/779/324_1117369573.jpg",
+        "height": 2448,
+        "width": 3264,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13401741,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251779324",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Dressur/hobbyhest selges - HASTER",
+      "id": "251714407",
+      "url": "/251714407",
+      "ad-type": "BAP",
+      "location": "Tiller",
+      "type": "AD",
+      "price": {
+        "value": 60000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/7/251/714/407_72001278.jpg",
+        "height": 739,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13348392,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251714407",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Oculus Quest 2 VR-briller (1 igjen)",
+      "id": "252068418",
+      "url": "/252068418",
+      "ad-type": "BAP",
+      "location": "Straumsgrend",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/068/418_765951453.jpg",
+        "height": 1600,
+        "width": 900,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13303086,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252068418",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "fritidsklær",
+      "id": "251969185",
+      "url": "/251969185",
+      "ad-type": "BAP",
+      "location": "Jessheim",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/969/185_736435297.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13279161,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251969185",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Eik Planker.",
+      "id": "235757103",
+      "url": "/235757103",
+      "ad-type": "BAP",
+      "location": "Tveit",
+      "type": "AD",
+      "price": {
+        "value": 9000
+      },
+      "image": {
+        "url": "2021/10/vertical-0/18/3/235/757/103_783373868.jpg",
+        "height": 960,
+        "width": 720,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13259943,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "235757103",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "NY PRIS!! => Nydelig ubrukt brudekjole havfru silhuett til salgs!",
+      "id": "161645174",
+      "url": "/161645174",
+      "ad-type": "BAP",
+      "location": "Randaberg",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2019/10/vertical-5/27/4/161/645/174_896047612.jpg",
+        "height": 1600,
+        "width": 866,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13116321,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "161645174",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "OSCAR JACOBSON JAKKE",
+      "id": "251760053",
+      "url": "/251760053",
+      "ad-type": "BAP",
+      "location": "Skien",
+      "type": "AD",
+      "price": {
+        "value": 300
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/3/251/760/053_2128725348.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13074519,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251760053",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Newbie sommer str 98 /104",
+      "id": "251895984",
+      "url": "/251895984",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/19/4/251/895/984_2047850001.jpg",
+        "height": 1280,
+        "width": 1706,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.13030213,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251895984",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Meget pen! CANNONDALE CAADX  2020 - CYCLOCROSS tur/ grus / stiracer / gravel",
+      "id": "252135539",
+      "url": "/252135539",
+      "ad-type": "BAP",
+      "location": "Nesøya",
+      "type": "AD",
+      "price": {
+        "value": 17990
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/135/539_849900576.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12918092,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252135539",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "snowboard",
+      "id": "251958574",
+      "url": "/251958574",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/4/251/958/574_1365377718.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12842135,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251958574",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "New Balance 530!",
+      "id": "251617840",
+      "url": "/251617840",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 950
+      },
+      "image": {
+        "url": "2022/3/vertical-0/17/0/251/617/840_374547231.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12801109,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251617840",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Komplett gaming pc",
+      "id": "252112019",
+      "url": "/252112019",
+      "ad-type": "BAP",
+      "location": "Nøtterøy",
+      "type": "AD",
+      "price": {
+        "value": 3000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/112/019_882183712.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12768774,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252112019",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Arrow Blu-ray",
+      "id": "250508902",
+      "url": "/250508902",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/07/2/250/508/902_79240254.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12738377,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "250508902",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Diverse ski",
+      "id": "251976316",
+      "url": "/251976316",
+      "ad-type": "BAP",
+      "location": "Tromsø",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/20/6/251/976/316_690976063.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12733902,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251976316",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "En stor kiste med legoklosser.",
+      "id": "251983745",
+      "url": "/251983745",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1100
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/983/745_2080899420.jpg",
+        "height": 4160,
+        "width": 3120,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12730195,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251983745",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Aloha - Black Dot PU - 6’4 Nytt!!!",
+      "id": "251774621",
+      "url": "/251774621",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 4000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/1/251/774/621_1560737540.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12724191,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251774621",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nye viking overgansko str 27",
+      "id": "251643597",
+      "url": "/251643597",
+      "ad-type": "BAP",
+      "location": "Fogn",
+      "type": "AD",
+      "price": {
+        "value": 550
+      },
+      "image": {
+        "url": "2022/3/vertical-0/17/7/251/643/597_788395249.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12716945,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251643597",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Ubrukbare Madshus felleski selges ;-)",
+      "id": "251965658",
+      "url": "/251965658",
+      "ad-type": "BAP",
+      "location": "Elverum",
+      "type": "AD",
+      "price": {
+        "value": 1200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/8/251/965/658_2113756260.jpg",
+        "height": 4032,
+        "width": 2305,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1267794,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251965658",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "wheat Vår og vinterdres + vår jakke alt 92",
+      "id": "251970389",
+      "url": "/251970389",
+      "ad-type": "BAP",
+      "location": "Florvåg",
+      "type": "AD",
+      "price": {
+        "value": 400
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/9/251/970/389_1458566963.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1265695,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251970389",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "iPad Pro 12,9 256gb wifi+cellular med Apple Pencil",
+      "id": "252051679",
+      "url": "/252051679",
+      "ad-type": "BAP",
+      "location": "Skien",
+      "type": "AD",
+      "price": {
+        "value": 7000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/051/679_27664147.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12637587,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252051679",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nydelig araberhoppe",
+      "id": "64216557",
+      "url": "/64216557",
+      "ad-type": "BAP",
+      "location": "Kløfta",
+      "type": "AD",
+      "price": {
+        "value": 60000
+      },
+      "image": {
+        "url": "2015/9/vertical-5/11/7/642/165/57_424769865.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12629385,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "64216557",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Eksklusiv 3-roms m/høy standard. Store soverom, 2 balkonger, heis og parkering* Vender ut mot rolig sidegate og bakgård",
+      "id": "251577086",
+      "url": "/251577086",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 9800000,
+        "total": 10096189
+      },
+      "image": {
+        "url": "2022/3/vertical-2/19/6/251/577/086_929098276.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12601024,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251577086",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lekker, åpen & lys 3(4)-roms m/garasje. Solrik & idyllisk terrasse på 27 kvm uten innsyn! 4 min til Ljabru holdeplass",
+      "id": "251926838",
+      "url": "/251926838",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 5890000,
+        "total": 6091101
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/8/251/926/838_1428361014.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12596327,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251926838",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Sceneteppe molton 3x3m Ferdigsydd - Foto bakgrunn",
+      "id": "251980010",
+      "url": "/251980010",
+      "ad-type": "BAP",
+      "location": "Askim",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/0/251/980/010_176289426.jpg",
+        "height": 960,
+        "width": 640,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12593403,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251980010",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Div. båtutstyr",
+      "id": "252110218",
+      "url": "/252110218",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/110/218_162494197.jpg",
+        "height": 2016,
+        "width": 908,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1256437,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252110218",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Combicamp gis bort",
+      "id": "251995315",
+      "url": "/251995315",
+      "ad-type": "BAP",
+      "location": "Nannestad",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/995/315_1397391451.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12534608,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251995315",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Småbruk med fantastisk usjenert beliggenhet | Panoramautsikt | 2 hus, driftsbygning, garasje, naust og sel/sæterhus",
+      "id": "251764268",
+      "url": "/251764268",
+      "ad-type": "REALESTATE",
+      "location": "Valldal",
+      "type": "AD",
+      "price": {
+        "value": 3500000,
+        "total": 3588842
+      },
+      "image": {
+        "url": "2022/3/vertical-2/19/8/251/764/268_354765022.jpg",
+        "height": 1600,
+        "width": 2844,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1250649,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251764268",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klespakke",
+      "id": "251930546",
+      "url": "/251930546",
+      "ad-type": "BAP",
+      "location": "Oppegård",
+      "type": "AD",
+      "price": {
+        "value": 700
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/6/251/930/546_1498336502.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1248195,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251930546",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Vintage Pioneer Platespiller",
+      "id": "252142532",
+      "url": "/252142532",
+      "ad-type": "BAP",
+      "location": "Bønes",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/2/252/142/532_1683931736.jpg",
+        "height": 1536,
+        "width": 2048,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12480888,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252142532",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Burberry Trench",
+      "id": "252049508",
+      "url": "/252049508",
+      "ad-type": "BAP",
+      "location": "Fetsund",
+      "type": "AD",
+      "price": {
+        "value": 5000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/049/508_1879656250.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12454708,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252049508",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Arbeidsele",
+      "id": "252047653",
+      "url": "/252047653",
+      "ad-type": "BAP",
+      "location": "Årnes",
+      "type": "AD",
+      "price": {
+        "value": 1400
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/252/047/653_1483654298.jpg",
+        "height": 1824,
+        "width": 1368,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.124064066,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252047653",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Voksi Move Light bilstolpose / vognpose - SOM NY! 2/3 SOLGT",
+      "id": "251937465",
+      "url": "/251937465",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/937/465_687625191.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12368526,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251937465",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stor, velholdt enebolig med et lekkert anstrøk. Nydelig utsikt mot vannet, solfylte uteplasser og dobbelgarasje m/loft.",
+      "id": "252011781",
+      "url": "/252011781",
+      "ad-type": "REALESTATE",
+      "location": "Duken",
+      "type": "AD",
+      "price": {
+        "value": 6990000,
+        "total": 7182620
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/1/252/011/781_2091204838.jpg",
+        "height": 724,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12364666,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252011781",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Ockelbo Laser 440",
+      "id": "251990722",
+      "url": "/251990722",
+      "ad-type": "MC",
+      "location": "Solumsmoen",
+      "type": "AD",
+      "price": {
+        "value": 35000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/2/251/990/722_1458837248.jpg",
+        "height": 750,
+        "width": 1040,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1232982,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251990722",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Helly Hansen bukse str 116/6",
+      "id": "244889735",
+      "url": "/244889735",
+      "ad-type": "BAP",
+      "location": "Ås",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/1/vertical-0/15/5/244/889/735_167008923.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1228497,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "244889735",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Douchebag Hugger 30L",
+      "id": "251997278",
+      "url": "/251997278",
+      "ad-type": "BAP",
+      "location": "Strømmen",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/8/251/997/278_1768386735.jpg",
+        "height": 1500,
+        "width": 1500,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.122743495,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251997278",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Sjarmerende enebolig i idylliske omgivelser med kort vei til sjøen - Vesentlig påkostet og oppgradert - Nærhet til skole",
+      "id": "251755467",
+      "url": "/251755467",
+      "ad-type": "REALESTATE",
+      "location": "Asker",
+      "type": "AD",
+      "price": {
+        "value": 8990000,
+        "total": 9216092
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/7/251/755/467_381071070.jpg",
+        "height": 1600,
+        "width": 2401,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12272398,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251755467",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nydelige blandings valper",
+      "id": "252152428",
+      "url": "/252152428",
+      "ad-type": "BAP",
+      "location": "Gjøvik",
+      "type": "AD",
+      "price": {
+        "value": 20000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/152/428_55216264.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.122493975,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252152428",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nordmørsbunad dame str S/36",
+      "id": "245530931",
+      "url": "/245530931",
+      "ad-type": "BAP",
+      "location": "Skreia",
+      "type": "AD",
+      "price": {
+        "value": 12000
+      },
+      "image": {
+        "url": "2022/1/vertical-0/20/1/245/530/931_801660068.jpg",
+        "height": 2048,
+        "width": 1536,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12238007,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "245530931",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Pronovias Mimosa",
+      "id": "251946433",
+      "url": "/251946433",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 6000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/251/946/433_469736553.jpg",
+        "height": 1084,
+        "width": 611,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.122142896,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251946433",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stor klespakke til jente i str 68",
+      "id": "251592942",
+      "url": "/251592942",
+      "ad-type": "BAP",
+      "location": "Gressvik",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/2/251/592/942_342216535.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12213388,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251592942",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Treningsutstyr / Multigym",
+      "id": "251951344",
+      "url": "/251951344",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 13000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/251/951/344_122542604.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12187798,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251951344",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Innholdsrik og vesentlig oppgradert enebolig på Nyborg. Stor garasje | 6 soverom |  961 kvm tomt | Må oppleves",
+      "id": "236651923",
+      "url": "/236651923",
+      "ad-type": "REALESTATE",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 12900000,
+        "total": 13223670
+      },
+      "image": {
+        "url": "2021/10/vertical-2/26/3/236/651/923_1740161753.jpg",
+        "height": 1000,
+        "width": 1501,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12186076,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "236651923",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Ragdoll blandinger",
+      "id": "251384919",
+      "url": "/251384919",
+      "ad-type": "BAP",
+      "location": "Verdal",
+      "type": "AD",
+      "price": {
+        "value": 7000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/251/384/919_1064719955.jpg",
+        "height": 2340,
+        "width": 1080,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.121731766,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251384919",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fotballsko - Adidas F50 Adizero Crazylight FG",
+      "id": "251950596",
+      "url": "/251950596",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1900
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/6/251/950/596_961719927.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12144865,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251950596",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Selger diverse figurer",
+      "id": "251539152",
+      "url": "/251539152",
+      "ad-type": "BAP",
+      "location": "Ulset",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/2/251/539/152_1168380681.jpg",
+        "height": 1512,
+        "width": 2016,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.121186376,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251539152",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Motorsag",
+      "id": "252085224",
+      "url": "/252085224",
+      "ad-type": "BAP",
+      "location": "Elverum",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/085/224_491403157.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.120744474,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252085224",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Delikat og gjennomført 2-roms med et stilsikkert preg | Suveren beliggenhet i indre gård | Heis og mulig P-leie*",
+      "id": "251946676",
+      "url": "/251946676",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 5000000,
+        "total": 5135963
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/6/251/946/676_58316756.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12050562,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251946676",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Eksepsjonell og eksklusiv toppleilighet i historisk bygård på Pappenheim. Totalrenovert særklasse i private omgivelser.",
+      "id": "251789667",
+      "url": "/251789667",
+      "ad-type": "REALESTATE",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 8490000,
+        "total": 8712920
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/7/251/789/667_1886033977.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12047877,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251789667",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Meget innholdsrik enebolig med godkjent utleieleilighet. 2 stuer, 2 bad, 3 wc, 5 soverom. Garasje.",
+      "id": "251932676",
+      "url": "/251932676",
+      "ad-type": "REALESTATE",
+      "location": "Nøtterøy",
+      "type": "AD",
+      "price": {
+        "value": 4490000,
+        "total": 4615592
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/6/251/932/676_1625402055.jpg",
+        "height": 1065,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12023569,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251932676",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Volkswagen Golf GOLF GTE 1.4-150",
+      "id": "239671500",
+      "url": "/239671500",
+      "ad-type": "CAR",
+      "location": "Kjerrgarden",
+      "type": "AD",
+      "price": {
+        "value": 153034
+      },
+      "image": {
+        "url": "2021/11/vertical-0/23/0/239/671/500_1949488247.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.12018484,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "239671500",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Dynafit PDG støvler",
+      "id": "251687343",
+      "url": "/251687343",
+      "ad-type": "BAP",
+      "location": "Lillehammer",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/17/3/251/687/343_2105400708.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11956761,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251687343",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Sommerpakke jente str.98",
+      "id": "251824887",
+      "url": "/251824887",
+      "ad-type": "BAP",
+      "location": "Bergen",
+      "type": "AD",
+      "price": {
+        "value": 120
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/7/251/824/887_1125241096.jpg",
+        "height": 3024,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.119274095,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251824887",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stor familiebolig med leieinntekter, store terrasser med flott utsikt & dobbel carport. Etablert & rolig nabolag.",
+      "id": "251903880",
+      "url": "/251903880",
+      "ad-type": "REALESTATE",
+      "location": "Fjellhamar",
+      "type": "AD",
+      "price": {
+        "value": 7790000,
+        "total": 7986092
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/0/251/903/880_1682124739.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.119085066,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251903880",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fischer felleski (TwinSkin Comp)",
+      "id": "252000232",
+      "url": "/252000232",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/2/252/000/232_960396490.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11905619,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252000232",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "El-gitarer selges rimelig",
+      "id": "252135385",
+      "url": "/252135385",
+      "ad-type": "BAP",
+      "location": "Sandnes",
+      "type": "AD",
+      "price": {
+        "value": 900
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/5/252/135/385_1049858741.jpg",
+        "height": 1600,
+        "width": 1454,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11859183,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252135385",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Zennen zp6",
+      "id": "235593503",
+      "url": "/235593503",
+      "ad-type": "BAP",
+      "location": "Nittedal",
+      "type": "AD",
+      "price": {
+        "value": 4500
+      },
+      "image": {
+        "url": "2021/10/vertical-0/17/3/235/593/503_1060369641.jpg",
+        "height": 2312,
+        "width": 1734,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11857247,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "235593503",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Attraktiv enebolig med dobbel garasje, stor tomt, 3 sov. og 2 bad, herlige uteplasser som kan nytes sommer som vinter!",
+      "id": "251662103",
+      "url": "/251662103",
+      "ad-type": "REALESTATE",
+      "location": "Hønefoss",
+      "type": "AD",
+      "price": {
+        "value": 5500000,
+        "total": 5638842
+      },
+      "image": {
+        "url": "2022/3/vertical-2/17/3/251/662/103_1969802620.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1183438,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251662103",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lekker 2-roms i 3.etg fra 2015 med balkong og fantastisk utsikt over naboen Sofienbergparken! God planløsning|Kjellerbod",
+      "id": "252113316",
+      "url": "/252113316",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 4490000,
+        "total": 4491132
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/6/252/113/316_1461497738.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11810814,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252113316",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Momas Jason",
+      "id": "252133514",
+      "url": "/252133514",
+      "ad-type": "BAP",
+      "location": "Gullaug",
+      "type": "AD",
+      "price": {
+        "value": 8000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/133/514_690304271.jpg",
+        "height": 1816,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11799383,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252133514",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Superfly fotballsko",
+      "id": "245127226",
+      "url": "/245127226",
+      "ad-type": "BAP",
+      "location": "Kopervik",
+      "type": "AD",
+      "price": {
+        "value": 1700
+      },
+      "image": {
+        "url": "2022/1/vertical-0/16/6/245/127/226_1121421613.jpg",
+        "height": 1600,
+        "width": 1332,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.117971316,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "245127226",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "ARP 2600",
+      "id": "252121751",
+      "url": "/252121751",
+      "ad-type": "BAP",
+      "location": "Porsgrunn",
+      "type": "AD",
+      "price": {
+        "value": 126000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/1/252/121/751_776165712.jpg",
+        "height": 960,
+        "width": 1160,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11796892,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252121751",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Festdrakt str 152 12 år",
+      "id": "251845671",
+      "url": "/251845671",
+      "ad-type": "BAP",
+      "location": "Tønsberg",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/1/251/845/671_1726773172.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11781728,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251845671",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Pent brukt Elan Twintip ski",
+      "id": "251857693",
+      "url": "/251857693",
+      "ad-type": "BAP",
+      "location": "Drammen",
+      "type": "AD",
+      "price": {
+        "value": 350
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/3/251/857/693_1359286232.jpg",
+        "height": 2016,
+        "width": 1512,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.117428795,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251857693",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fint brukte gutte klær  fra str 86-92",
+      "id": "251541996",
+      "url": "/251541996",
+      "ad-type": "BAP",
+      "location": "Randaberg",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/6/251/541/996_801264599.jpg",
+        "height": 2000,
+        "width": 900,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11739972,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251541996",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Airpods pro",
+      "id": "252040901",
+      "url": "/252040901",
+      "ad-type": "BAP",
+      "location": "Gjettum",
+      "type": "AD",
+      "price": {
+        "value": 350
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/252/040/901_2068940167.jpg",
+        "height": 1600,
+        "width": 900,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.117387675,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252040901",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Reiseseng - babybjørn",
+      "id": "252008923",
+      "url": "/252008923",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/252/008/923_818451456.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11734894,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252008923",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Masse Duplo (2 kasser)",
+      "id": "252007087",
+      "url": "/252007087",
+      "ad-type": "BAP",
+      "location": "Horten",
+      "type": "AD",
+      "price": {
+        "value": 1600
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/7/252/007/087_1009384034.jpg",
+        "height": 2604,
+        "width": 4624,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11716181,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252007087",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lekkert enderekkehus over to plan i attraktivt område | Stor, usjenert og solrik terrasse | 2 Bad + vaskerom | Garasje",
+      "id": "251659022",
+      "url": "/251659022",
+      "ad-type": "REALESTATE",
+      "location": "Bodø",
+      "type": "AD",
+      "price": {
+        "value": 4500000,
+        "total": 4819313
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/2/251/659/022_1157373929.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11705133,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251659022",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Madison Beer ordinær/M&G billetter, 28.april 2022 - Vulkan Arena",
+      "id": "251799808",
+      "url": "/251799808",
+      "ad-type": "BAP",
+      "location": "Sande i Vestfold",
+      "type": "AD",
+      "price": {
+        "value": 3300
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/8/251/799/808_607428312.jpg",
+        "height": 683,
+        "width": 1024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11687459,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251799808",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stor klespakke til dame, 19 plagg i M og noe L",
+      "id": "198560870",
+      "url": "/198560870",
+      "ad-type": "BAP",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2020/12/vertical-0/17/0/198/560/870_2100623444.jpg",
+        "height": 1135,
+        "width": 1125,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11661504,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "198560870",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gulvteppe",
+      "id": "251961651",
+      "url": "/251961651",
+      "ad-type": "BAP",
+      "location": "Bekkestua",
+      "type": "AD",
+      "price": {
+        "value": 1200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/251/961/651_1003856352.jpg",
+        "height": 1280,
+        "width": 849,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11661029,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251961651",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Unik og urban 2-roms andelsleilighet med særpreg | Generøs takhøyde | Peis | Varmtvann inkludert - Må sees!",
+      "id": "251129117",
+      "url": "/251129117",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 4990000,
+        "total": 5152596
+      },
+      "image": {
+        "url": "2022/3/vertical-2/15/7/251/129/117_760731685.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11656596,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251129117",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Baby klespakke str 56-62(mesteparten kun brukt 1 gang)",
+      "id": "251807473",
+      "url": "/251807473",
+      "ad-type": "BAP",
+      "location": "Fjellhamar",
+      "type": "AD",
+      "price": {
+        "value": 600
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/3/251/807/473_301106178.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11641776,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251807473",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Reborndukke i hel silikon, full silikon dukke/ reborn, PROTOTYPE",
+      "id": "251982520",
+      "url": "/251982520",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 26980
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/0/251/982/520_1318455989.jpg",
+        "height": 2304,
+        "width": 1120,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11636178,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251982520",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Romslig 4-roms med trappefri adkomst - Balkong - Heis - Garasjeplass - Meget sentral og attraktiv beliggenhet!",
+      "id": "251929483",
+      "url": "/251929483",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 9000000,
+        "total": 9227494
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/3/251/929/483_1983741622.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11626974,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251929483",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Baby jogger City Elite",
+      "id": "252072628",
+      "url": "/252072628",
+      "ad-type": "BAP",
+      "location": "Haugesund",
+      "type": "AD",
+      "price": {
+        "value": 2200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/8/252/072/628_189337183.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11622101,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252072628",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Attraktiv og moderne 3-roms topp- og hjørneleilighet med garasje og flott utsikt. Solrik balkong. Felles takterrasse.",
+      "id": "251842204",
+      "url": "/251842204",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 7800000,
+        "total": 7996342
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/4/251/842/204_1119666800.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11602117,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251842204",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Jelena Välbes tidligere felleski Salomon drittski selges høystbydende",
+      "id": "251909589",
+      "url": "/251909589",
+      "ad-type": "BAP",
+      "location": "Vettre",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/19/9/251/909/589_54083902.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11601811,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251909589",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Metallica Vinyl plate",
+      "id": "252044334",
+      "url": "/252044334",
+      "ad-type": "BAP",
+      "location": "Manstad",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/4/252/044/334_1047988324.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11575312,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252044334",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "RESERVERT Lego Technic 42043 Mercedes-Benz Arocs 3245",
+      "id": "252078799",
+      "url": "/252078799",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/078/799_1930763667.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11527586,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252078799",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "klesskap som ny!",
+      "id": "252108697",
+      "url": "/252108697",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/7/252/108/697_647115315.jpg",
+        "height": 768,
+        "width": 1024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11515667,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252108697",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Swix Triac 4.0 staver 152.5 & 162.5 cm",
+      "id": "252007535",
+      "url": "/252007535",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/252/007/535_157141667.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.115036055,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252007535",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "B230 Motor",
+      "id": "252000249",
+      "url": "/252000249",
+      "ad-type": "BAP",
+      "location": "Alvdal",
+      "type": "AD",
+      "price": {
+        "value": 35000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/9/252/000/249_273294183.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11485499,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252000249",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nissan Qashqai +2 QASH+2 1.5-110 D",
+      "id": "251932898",
+      "url": "/251932898",
+      "ad-type": "CAR",
+      "location": "Søreidgrend",
+      "type": "AD",
+      "price": {
+        "value": 26000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/8/251/932/898_168381610.jpg",
+        "height": 1512,
+        "width": 2016,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.114600606,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251932898",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Utemøbler",
+      "id": "251924831",
+      "url": "/251924831",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 950
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/251/924/831_1362945081.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11456366,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251924831",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Surfski Epic V12, 1. gen",
+      "id": "252050633",
+      "url": "/252050633",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/3/252/050/633_1139042717.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.114449695,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252050633",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Bjørn Wiinblad duk",
+      "id": "251539159",
+      "url": "/251539159",
+      "ad-type": "BAP",
+      "location": "Drøbak",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/9/251/539/159_241609150.jpg",
+        "height": 2048,
+        "width": 1536,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11407915,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251539159",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Strøken iphone se 2020 selges",
+      "id": "251951210",
+      "url": "/251951210",
+      "ad-type": "BAP",
+      "location": "Steinkjer",
+      "type": "AD",
+      "price": {
+        "value": 2500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/0/251/951/210_1282071707.jpg",
+        "height": 1600,
+        "width": 739,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11395988,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251951210",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Hus med stor veranda på Auli",
+      "id": "252016651",
+      "url": "/252016651",
+      "ad-type": "REALESTATE",
+      "location": "Auli",
+      "type": "AD",
+      "price": {
+        "value": 8000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/252/016/651_1916732716.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.113946356,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252016651",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Vallak f. 2014",
+      "id": "251726647",
+      "url": "/251726647",
+      "ad-type": "BAP",
+      "location": "Oppdal",
+      "type": "AD",
+      "price": {
+        "value": 45000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/7/251/726/647_1651362678.jpg",
+        "height": 3456,
+        "width": 2304,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11394181,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251726647",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "By Malina Eloise Brudekjole",
+      "id": "252093651",
+      "url": "/252093651",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 4500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/1/252/093/651_152121988.jpg",
+        "height": 1700,
+        "width": 1300,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.113760866,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252093651",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Strikket genser",
+      "id": "251725952",
+      "url": "/251725952",
+      "ad-type": "BAP",
+      "location": "Tistedal",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/2/251/725/952_22367839.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11368844,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251725952",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "5 stk jeans selges billig",
+      "id": "251541550",
+      "url": "/251541550",
+      "ad-type": "BAP",
+      "location": "Porsgrunn",
+      "type": "AD",
+      "price": {
+        "value": 200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/16/0/251/541/550_788983995.jpg",
+        "height": 804,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11359241,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251541550",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "kattnakken",
+      "id": "252074044",
+      "url": "/252074044",
+      "ad-type": "BAP",
+      "location": "Os",
+      "type": "AD",
+      "price": {
+        "value": 550
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/074/044_240950376.jpg",
+        "height": 1600,
+        "width": 740,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11319448,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252074044",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "hest",
+      "id": "251675378",
+      "url": "/251675378",
+      "ad-type": "BAP",
+      "location": "Eidsberg",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/17/8/251/675/378_1759822129.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11317824,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251675378",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gamingpc, fungerer godt til spill, skole og streaming",
+      "id": "251832378",
+      "url": "/251832378",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 2500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/8/251/832/378_1134216799.jpg",
+        "height": 2016,
+        "width": 908,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11312123,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251832378",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Gaming Monitor | 1920x1080 IPS, 144hz, 1ms*, 1000:1, FreeSync, VGA/HDMI/DP",
+      "id": "252008321",
+      "url": "/252008321",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 900
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/252/008/321_1648929947.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11280024,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252008321",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "NMJ Superline El.17 2231",
+      "id": "252133764",
+      "url": "/252133764",
+      "ad-type": "BAP",
+      "location": "Mysen",
+      "type": "AD",
+      "price": {
+        "value": 9500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/133/764_1241085456.jpg",
+        "height": 1600,
+        "width": 1074,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.112750046,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252133764",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "duplo og div. barnebøker",
+      "id": "251971867",
+      "url": "/251971867",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 250
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/7/251/971/867_1325023125.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.112729296,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251971867",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "klespakke L/xl",
+      "id": "251823385",
+      "url": "/251823385",
+      "ad-type": "BAP",
+      "location": "Larvik",
+      "type": "AD",
+      "price": {
+        "value": 300
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/5/251/823/385_1902460041.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11270422,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251823385",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Smartphone S20+ /8GB/256GB",
+      "id": "251855853",
+      "url": "/251855853",
+      "ad-type": "BAP",
+      "location": "Skien",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/3/251/855/853_129516605.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11256388,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251855853",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Delikat og klassisk 3-roms med generøs takhøyde, store vinduer og peis | Attraktiv beliggenhet | Varmtvann inkl.",
+      "id": "251325645",
+      "url": "/251325645",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 4900000,
+        "total": 5083359
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/5/251/325/645_1322968928.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.112471245,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251325645",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fluestenger",
+      "id": "252102384",
+      "url": "/252102384",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/102/384_1891228545.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.112287745,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252102384",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Descendants dukker 4 stk",
+      "id": "251877904",
+      "url": "/251877904",
+      "ad-type": "BAP",
+      "location": "Sandnes",
+      "type": "AD",
+      "price": {
+        "value": 600
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/4/251/877/904_164115761.jpg",
+        "height": 1334,
+        "width": 750,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11226693,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251877904",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Stetson Hatt",
+      "id": "251833515",
+      "url": "/251833515",
+      "ad-type": "BAP",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 300
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/5/251/833/515_750294197.jpg",
+        "height": 3024,
+        "width": 4032,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11202778,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251833515",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Scania Star 602 Carrus 1998, 1 250 km, kr 280 000,-",
+      "id": "251910579",
+      "url": "/251910579",
+      "ad-type": "B2B",
+      "location": "Undheim",
+      "type": "AD",
+      "price": {
+        "value": 280000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/9/251/910/579_1370086615.jpg",
+        "height": 810,
+        "width": 1080,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11177683,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251910579",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Karmlister",
+      "id": "252059431",
+      "url": "/252059431",
+      "ad-type": "BAP",
+      "location": "Eidsvåg i Åsane",
+      "type": "AD",
+      "price": {
+        "value": 20
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/1/252/059/431_1716921172.jpg",
+        "height": 864,
+        "width": 1872,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11173429,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252059431",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Spranghest/allroundhest selges",
+      "id": "251854167",
+      "url": "/251854167",
+      "ad-type": "BAP",
+      "location": "Vettre",
+      "type": "AD",
+      "price": {
+        "value": 70000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/7/251/854/167_1355601317.jpg",
+        "height": 893,
+        "width": 1125,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11156468,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251854167",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Mye duplo med oppbevaringspose i tekstil. Inneholder dyr, biler, brannbil etc.",
+      "id": "251829243",
+      "url": "/251829243",
+      "ad-type": "BAP",
+      "location": "Fredrikstad",
+      "type": "AD",
+      "price": {
+        "value": 1200
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/3/251/829/243_1198333888.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11153842,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251829243",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "iPhone 11 selges rimelig",
+      "id": "252045765",
+      "url": "/252045765",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/252/045/765_1123295617.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11142064,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252045765",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Diamantring 1,02 karat",
+      "id": "185692428",
+      "url": "/185692428",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 45000
+      },
+      "image": {
+        "url": "2020/7/vertical-0/23/8/185/692/428_1811161709.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.111308575,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "185692428",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Treningsapparater / Diverse treningsutstyr",
+      "id": "252068704",
+      "url": "/252068704",
+      "ad-type": "BAP",
+      "location": "Nøtterøy",
+      "type": "AD",
+      "price": {
+        "value": 6000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/068/704_1953538873.jpg",
+        "height": 2048,
+        "width": 1536,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11129872,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252068704",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "LP'er fra 70-og -80tallet",
+      "id": "251838893",
+      "url": "/251838893",
+      "ad-type": "BAP",
+      "location": "Asker",
+      "type": "AD",
+      "price": {
+        "value": 50
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/3/251/838/893_2052679206.jpg",
+        "height": 2736,
+        "width": 3648,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11109002,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251838893",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "4 stk Nokian hakkapelita vinterdekk 235/45R19",
+      "id": "252027179",
+      "url": "/252027179",
+      "ad-type": "BAP",
+      "location": "Andebu",
+      "type": "AD",
+      "price": {
+        "value": 4000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/9/252/027/179_1527239392.jpg",
+        "height": 2048,
+        "width": 1536,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11102555,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252027179",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Innholdsrik og tilbaketrukket 4-roms selveierleilighet med praktisk beliggenhet og gode solforhold-Parkering i garasje!",
+      "id": "252110351",
+      "url": "/252110351",
+      "ad-type": "REALESTATE",
+      "location": "Bodø",
+      "type": "AD",
+      "price": {
+        "value": 5180000,
+        "total": 5310670
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/1/252/110/351_1079053907.jpg",
+        "height": 1202,
+        "width": 1800,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110907264,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252110351",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Wheat vårdress",
+      "id": "251999683",
+      "url": "/251999683",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 399
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/251/999/683_1517789722.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110868335,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251999683",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "akvarium",
+      "id": "252067672",
+      "url": "/252067672",
+      "ad-type": "BAP",
+      "location": "Sem",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/2/252/067/672_133846184.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11070243,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252067672",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Tiltalende 3-roms seniorleilighet (60 +) - Trafikkstille og naturnært - Flott utsikt - Fantastisk bomiljø - Usjenert",
+      "id": "251547115",
+      "url": "/251547115",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 5550000,
+        "total": 5975396
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/5/251/547/115_1683921440.jpg",
+        "height": 800,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11067506,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251547115",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Nydelig brudekjole",
+      "id": "252062181",
+      "url": "/252062181",
+      "ad-type": "BAP",
+      "location": "Sandnes",
+      "type": "AD",
+      "price": {
+        "value": 1500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/1/252/062/181_1660207309.jpg",
+        "height": 1334,
+        "width": 750,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110500485,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252062181",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "RESERVERT! Blomsterkasser selges billig",
+      "id": "251964308",
+      "url": "/251964308",
+      "ad-type": "BAP",
+      "location": "Jevnaker",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/8/251/964/308_1809523601.jpg",
+        "height": 2127,
+        "width": 3087,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11047757,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251964308",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fleischmann",
+      "id": "252023435",
+      "url": "/252023435",
+      "ad-type": "BAP",
+      "location": "Kana",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/20/5/252/023/435_1076997716.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110453784,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252023435",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Hjemmestrikk til baby og barn",
+      "id": "231705308",
+      "url": "/231705308",
+      "ad-type": "BAP",
+      "location": "Ålesund",
+      "type": "AD",
+      "price": {
+        "value": 70
+      },
+      "image": {
+        "url": "2021/9/vertical-0/14/8/231/705/308_1088022046.jpg",
+        "height": 4000,
+        "width": 3000,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110353604,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "231705308",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Herlig familieidyll på bakkeplan med stor, privat hage - Svært solrikt - Åpent og fritt - Garasjepl. med lader",
+      "id": "251974415",
+      "url": "/251974415",
+      "ad-type": "REALESTATE",
+      "location": "Fornebu",
+      "type": "AD",
+      "price": {
+        "value": 11550000,
+        "total": 11849420
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/5/251/974/415_1658035632.jpg",
+        "height": 1198,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11033225,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251974415",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "stor klespakke til jente str 80",
+      "id": "251743108",
+      "url": "/251743108",
+      "ad-type": "BAP",
+      "location": "Vestfossen",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/8/251/743/108_1758635746.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11027483,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251743108",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Japan Racing JR21",
+      "id": "251981448",
+      "url": "/251981448",
+      "ad-type": "BAP",
+      "location": "Lillestrøm",
+      "type": "AD",
+      "price": {
+        "value": 20500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/8/251/981/448_172531778.jpg",
+        "height": 1600,
+        "width": 870,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11013039,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251981448",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klespakke str 56",
+      "id": "251653905",
+      "url": "/251653905",
+      "ad-type": "BAP",
+      "location": "Ræge",
+      "type": "AD",
+      "price": {
+        "value": 500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/17/5/251/653/905_564061228.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.11006157,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251653905",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Tilhenger 2000kg*Bud mottatt*",
+      "id": "252081998",
+      "url": "/252081998",
+      "ad-type": "BAP",
+      "location": "Førde",
+      "type": "AD",
+      "price": {
+        "value": 10000
+      },
+      "image": {
+        "url": "2022/3/vertical-5/21/8/252/081/998_2001555544.jpg",
+        "height": 954,
+        "width": 2016,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.110037185,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252081998",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "FROGNER: Eksklusiv og luftig 2-roms toppleilighet fra 2022. 91kvm gulvareal. Takterrasse på ca. 8 kvm. Hems.",
+      "id": "251772090",
+      "url": "/251772090",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 8500000,
+        "total": 8790912
+      },
+      "image": {
+        "url": "2022/3/vertical-2/18/0/251/772/090_1450453701.jpg",
+        "height": 1199,
+        "width": 1800,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10995312,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251772090",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Kundekonsulenter",
+      "id": "251728511",
+      "url": "/251728511",
+      "ad-type": "JOB",
+      "location": "Oslo",
+      "type": "AD",
+      "content": {
+        "company_name": "Oslo kommune",
+        "heading": "Brenner du for å gjøre en forskjell for andre?",
+        "job_title": "Kundekonsulenter",
+        "published": "2022-03-18",
+        "published_relative": "4 dager siden",
+        "duration": "Heltid"
+      },
+      "image": {
+        "url": "logo/logo/-3901/20190828/5372f599-729c-4b29-810e-82c6ec649e75",
+        "type": "LOGO",
+        "scalable": false
+      },
+      "score": 0.109790966,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251728511",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Sommerklær i str 68 - (40 plagg, mye Newbie)",
+      "id": "251802210",
+      "url": "/251802210",
+      "ad-type": "BAP",
+      "location": "Loddefjord",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/18/0/251/802/210_1351214672.jpg",
+        "height": 2286,
+        "width": 3488,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.109677255,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251802210",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "playstation 4",
+      "id": "251961774",
+      "url": "/251961774",
+      "ad-type": "BAP",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/4/251/961/774_1829913878.jpg",
+        "height": 600,
+        "width": 800,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10955264,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251961774",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Romantisk brudekjole Pronovias Especial",
+      "id": "185762873",
+      "url": "/185762873",
+      "ad-type": "BAP",
+      "location": "Billingstad",
+      "type": "AD",
+      "price": {
+        "value": 9500
+      },
+      "image": {
+        "url": "2020/7/vertical-0/24/3/185/762/873_96474908.jpg",
+        "height": 1334,
+        "width": 1000,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1094319,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "185762873",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lys og gjennomgående 3-roms andelsleilighet med solrik balkong - Peisovn - 3 boder - Markanært",
+      "id": "251910612",
+      "url": "/251910612",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3200000,
+        "total": 3291504
+      },
+      "image": {
+        "url": "2022/3/vertical-2/19/2/251/910/612_905518745.jpg",
+        "height": 1068,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10940222,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251910612",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Elektrisk sparkesykkel",
+      "id": "252098934",
+      "url": "/252098934",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 1000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/4/252/098/934_2031053152.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10929045,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252098934",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Lys & attraktiv 2-roms med sydvendt balkong - 3m takhøyde - Modernisert i 2013 - Heis - Varmtvann inkl - Ingen dok.avg.",
+      "id": "251986752",
+      "url": "/251986752",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3700000,
+        "total": 3799386
+      },
+      "image": {
+        "url": "2022/3/vertical-2/20/2/251/986/752_2086390222.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10920791,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251986752",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "iPhone 11 Max Pro",
+      "id": "252048313",
+      "url": "/252048313",
+      "ad-type": "BAP",
+      "location": "Kristiansund N",
+      "type": "AD",
+      "price": {
+        "value": 4000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/3/252/048/313_432224687.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.109185226,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252048313",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Slalomski",
+      "id": "251968285",
+      "url": "/251968285",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/5/251/968/285_6639229.jpg",
+        "height": 2000,
+        "width": 1500,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1091747,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251968285",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Playstation 5 !BILLIG!",
+      "id": "252052769",
+      "url": "/252052769",
+      "ad-type": "BAP",
+      "location": "Fredrikstad",
+      "type": "AD",
+      "price": {
+        "value": 7500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/21/9/252/052/769_1632054054.jpg",
+        "height": 720,
+        "width": 1280,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10906971,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252052769",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Kattnakken helårs regndress som ny",
+      "id": "252025191",
+      "url": "/252025191",
+      "ad-type": "BAP",
+      "location": "Gjerdrum",
+      "type": "AD",
+      "price": {
+        "value": 450
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/1/252/025/191_913496417.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10904533,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252025191",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Selger 2 Harry Styles billetter!",
+      "id": "251912752",
+      "url": "/251912752",
+      "ad-type": "BAP",
+      "location": "Jondal",
+      "type": "AD",
+      "price": {
+        "value": 580
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/2/251/912/752_702824250.jpg",
+        "height": 1600,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10895345,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251912752",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Snowboardpakke",
+      "id": "251855926",
+      "url": "/251855926",
+      "ad-type": "BAP",
+      "location": "Trondheim",
+      "type": "AD",
+      "price": {
+        "value": 2500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/6/251/855/926_1327871144.jpg",
+        "height": 1600,
+        "width": 1200,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10887956,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251855926",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Fjellreven sett vurderes solgt",
+      "id": "251887155",
+      "url": "/251887155",
+      "ad-type": "BAP",
+      "location": "Laksevåg",
+      "type": "AD",
+      "price": {
+        "value": 1800
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/5/251/887/155_1290161965.jpg",
+        "height": 1703,
+        "width": 1284,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10886611,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251887155",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Eksklusiv og påkostet leilighet med høy standard i parkvilla fra 2019 - 2 garasjeplasser - Heis - Flotte materialvalg",
+      "id": "251840384",
+      "url": "/251840384",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 22000000,
+        "total": 22560642
+      },
+      "image": {
+        "url": "2022/3/vertical-2/21/4/251/840/384_1974478548.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10876431,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251840384",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Snowboard barn",
+      "id": "252034477",
+      "url": "/252034477",
+      "ad-type": "BAP",
+      "location": "Stavanger",
+      "type": "AD",
+      "price": {
+        "value": 400
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/7/252/034/477_2080956852.jpg",
+        "height": 4032,
+        "width": 3024,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10874727,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252034477",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "glass og keramikkovn",
+      "id": "251964979",
+      "url": "/251964979",
+      "ad-type": "BAP",
+      "location": "Finnøy",
+      "type": "AD",
+      "price": {
+        "value": 2000
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/9/251/964/979_1377244178.jpg",
+        "height": 1276,
+        "width": 956,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10861753,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251964979",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Frontleilighet helt inntil sjøkanten m/panoramautsikt. Gjennomgående løsning i nest øverste etasje. Bynært og sentralt!",
+      "id": "252032540",
+      "url": "/252032540",
+      "ad-type": "REALESTATE",
+      "location": "Tønsberg",
+      "type": "AD",
+      "price": {
+        "value": 5490000,
+        "total": 5636592
+      },
+      "image": {
+        "url": "2022/3/vertical-2/22/0/252/032/540_373808264.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10861625,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252032540",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Klespakke str 110",
+      "id": "251828195",
+      "url": "/251828195",
+      "ad-type": "BAP",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 150
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/5/251/828/195_1202966454.jpg",
+        "height": 3597,
+        "width": 2023,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.108378306,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251828195",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Beleggningstein",
+      "id": "252123287",
+      "url": "/252123287",
+      "ad-type": "BAP",
+      "location": "Røyneberg",
+      "type": "AD",
+      "image": {
+        "url": "2022/3/vertical-0/21/7/252/123/287_1284796425.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10825381,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252123287",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Scott Navajo Strl L",
+      "id": "252022803",
+      "url": "/252022803",
+      "ad-type": "BAP",
+      "location": "Sandnes",
+      "type": "AD",
+      "price": {
+        "value": 3500
+      },
+      "image": {
+        "url": "2022/3/vertical-0/20/3/252/022/803_1235043265.jpg",
+        "height": 1200,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.1082342,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "252022803",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Harry styles billett felt M og K",
+      "id": "251905944",
+      "url": "/251905944",
+      "ad-type": "BAP",
+      "location": "Nøtterøy",
+      "type": "AD",
+      "price": {
+        "value": 705
+      },
+      "image": {
+        "url": "2022/3/vertical-0/19/4/251/905/944_711240258.jpg",
+        "height": 900,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.108199775,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251905944",
+        "itemType": "Ad"
+      }
+    },
+    {
+      "description": "Råkul retro leilighet med effektiv planløsning og sentral beliggenhet. Kort vei til parker, servicetilbud mm! Vv/fyring",
+      "id": "251006903",
+      "url": "/251006903",
+      "ad-type": "REALESTATE",
+      "location": "Oslo",
+      "type": "AD",
+      "price": {
+        "value": 3350000,
+        "total": 3470346
+      },
+      "image": {
+        "url": "2022/3/vertical-2/11/3/251/006/903_1357361682.jpg",
+        "height": 1067,
+        "width": 1600,
+        "type": "GENERAL",
+        "scalable": true
+      },
+      "score": 0.10814822,
+      "version": "mul-pop-thompzon",
+      "favourite": {
+        "itemId": "251006903",
+        "itemType": "Ad"
+      }
+    }
+  ],
+  "fetchMore": [],
+  "size": 200,
+  "version": "meta_app_mix_v3"
+}
