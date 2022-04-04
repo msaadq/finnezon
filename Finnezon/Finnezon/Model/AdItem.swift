@@ -54,10 +54,7 @@ struct AdItem: Codable, Identifiable {
     }
 }
 
-// MARK: - Items Response
-struct ItemsResponse: Codable {
-    let isPersonal: Bool?
-    let hasConsent: Bool?
+// MARK: - Ad Items Response
+struct AdItemsResponse: Codable {
     let items: [AdItem]?
-    let size: Int?
 }
