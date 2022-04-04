@@ -12,6 +12,9 @@ struct AdsHomeView: View {
 
     var body: some View {
         Text("Hello")
+            .task {
+                viewModel.retrieveAllAds()
+            }
     }
 }
 

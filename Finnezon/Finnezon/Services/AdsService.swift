@@ -39,14 +39,14 @@ final class AdsService: AdsServiceProtocol {
     struct AdsAPI {
         static let scheme = "https"
         static let host = "gist.githubusercontent.com"
-        static let path = "baldermork"
+        static let path = "/baldermork"
     }
 
     // MARK: - Images API
     struct ImagesAPI {
         static let scheme = "https"
         static let host = "images.finncdn.no"
-        static let path = "dynamic/480x360c"
+        static let path = "/dynamic/480x360c"
     }
 
     // MARK: - Endpoint
@@ -94,6 +94,7 @@ final class AdsService: AdsServiceProtocol {
                 }
                 return AdsServiceError.dataFetcherError(.genericError(description: error.localizedDescription))
             }
+            .receive(on: RunLoop.main)
             .eraseToAnyPublisher()
     }
 }
