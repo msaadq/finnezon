@@ -44,14 +44,15 @@ final class SceneCoordinator: CoordinatorProtocol {
     // MARK: - SceneCoordinator
 
     func setupTabs() {
-        window.rootViewController = UINavigationController()
+        window.rootViewController = tabBarController
         window.makeKeyAndVisible()
 
-        tabBarController.viewControllers = [UINavigationController(), UINavigationController()]
+        tabBarController.viewControllers = [navigationController]
     }
 
     func didLaunchHome() {
-
+        let homeCoordinator = HomeCoordinator(navigationController: navigationController, dependencyContainer: dependencyContainer)
+        homeCoordinator.start()
     }
 
     func didLaunchFavourites() {

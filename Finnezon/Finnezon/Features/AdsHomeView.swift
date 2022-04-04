@@ -8,13 +8,36 @@
 import SwiftUI
 
 struct AdsHomeView: View {
+    @ObservedObject var viewModel: AdsHomeViewModel
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("Hello")
     }
 }
 
+// UIHostingController Implementation
+class AdsHomeViewController: UIHostingController<AdsHomeView> {
+    var viewModel: AdsHomeViewModel
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do all changes related to NavigationItems
+    }
+
+    init(viewModel: AdsHomeViewModel) {
+        self.viewModel = viewModel
+        super.init(rootView: AdsHomeView(viewModel: viewModel))
+    }
+
+    @objc required dynamic init?(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+}
+
+
 struct AdsHomeView_Previews: PreviewProvider {
     static var previews: some View {
-        AdsHomeView()
+        AdsHomeView(viewModel: AdsHomeViewModel())
     }
 }

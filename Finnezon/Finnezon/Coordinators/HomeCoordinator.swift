@@ -18,7 +18,7 @@ final class HomeCoordinator: CoordinatorProtocol {
 
     // MARK: - Life Cycle
 
-    init(navigationController: UINavigationController, dependencyContainer: DependencyContainer) {
+    init(navigationController: UINavigationController, dependencyContainer: DependencyContainerProtocol) {
         self.navigationController = navigationController
         self.dependencyContainer = dependencyContainer
     }
@@ -26,7 +26,8 @@ final class HomeCoordinator: CoordinatorProtocol {
     // MARK: - CoordinatorProtocol
 
     func start() {
-
+        let viewModel = AdsHomeViewModel(dependencyContainer: dependencyContainer, coordinator: self)
+        navigationController.pushViewController(AdsHomeViewController(viewModel: viewModel), animated: false)
     }
 
     func childDidFinish(_ child: CoordinatorProtocol) {
