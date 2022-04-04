@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		936BFEF127FB019A003A39E3 /* CoordinatorProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF027FB019A003A39E3 /* CoordinatorProtocol.swift */; };
+		936BFEF327FB02A7003A39E3 /* DependencyContainerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF227FB02A7003A39E3 /* DependencyContainerProtocol.swift */; };
 		93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */; };
 		93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB727FAFA2C00BFA12C /* ContentView.swift */; };
 		93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */; };
@@ -42,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		936BFEF027FB019A003A39E3 /* CoordinatorProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocol.swift; sourceTree = "<group>"; };
+		936BFEF227FB02A7003A39E3 /* DependencyContainerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyContainerProtocol.swift; sourceTree = "<group>"; };
 		93FB2CB227FAFA2C00BFA12C /* Finnezon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finnezon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonApp.swift; sourceTree = "<group>"; };
 		93FB2CB727FAFA2C00BFA12C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -179,6 +183,8 @@
 			isa = PBXGroup;
 			children = (
 				93FB2CEB27FAFAB300BFA12C /* Persistence */,
+				936BFEF027FB019A003A39E3 /* CoordinatorProtocol.swift */,
+				936BFEF227FB02A7003A39E3 /* DependencyContainerProtocol.swift */,
 			);
 			path = Common;
 			sourceTree = "<group>";
@@ -337,6 +343,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFEF327FB02A7003A39E3 /* DependencyContainerProtocol.swift in Sources */,
+				936BFEF127FB019A003A39E3 /* CoordinatorProtocol.swift in Sources */,
 				93FB2CC227FAFA2D00BFA12C /* Finnezon.xcdatamodeld in Sources */,
 				93FB2CBF27FAFA2D00BFA12C /* Persistence.swift in Sources */,
 				93FB2CED27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,

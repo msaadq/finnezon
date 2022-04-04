@@ -9,20 +9,28 @@ import SwiftUI
 
 @main
 struct FinnezonApp: App {
-    @UIApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
     let persistenceController = PersistenceController.shared
+
+    var window: UIWindow? {
+        guard let scene = UIApplication.shared.connectedScenes.first,
+              let windowSceneDelegate = scene.delegate as? UIWindowSceneDelegate,
+              let window = windowSceneDelegate.window else {
+            return nil
+        }
+        return window
+    }
 
     var body: some Scene {
         WindowGroup {
             ContentView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
+                .onAppear {
+                    guard let window = window else { return }
+                    
+                    let container = DependencyContainer()
+                    let sceneCoordinator = SceneCoordinator(window: window, dependencyContainer: container)
+                    sceneCoordinator.start()
+                }
         }
-    }
-}
-
-class AppDelegate: NSObject, UIApplicationDelegate {
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey : Any]? = nil) -> Bool {
-        print("Your code here")
-        return true
     }
 }
