@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		936BFEF127FB019A003A39E3 /* CoordinatorProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF027FB019A003A39E3 /* CoordinatorProtocol.swift */; };
 		936BFEF327FB02A7003A39E3 /* DependencyContainerProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF227FB02A7003A39E3 /* DependencyContainerProtocol.swift */; };
+		936BFEF727FB5E69003A39E3 /* DataFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF627FB5E69003A39E3 /* DataFetcher.swift */; };
+		936BFEF827FB5E69003A39E3 /* DataFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF627FB5E69003A39E3 /* DataFetcher.swift */; };
+		936BFEF927FB5E69003A39E3 /* DataFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFEF627FB5E69003A39E3 /* DataFetcher.swift */; };
 		93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */; };
 		93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB727FAFA2C00BFA12C /* ContentView.swift */; };
 		93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */; };
@@ -46,6 +49,7 @@
 /* Begin PBXFileReference section */
 		936BFEF027FB019A003A39E3 /* CoordinatorProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoordinatorProtocol.swift; sourceTree = "<group>"; };
 		936BFEF227FB02A7003A39E3 /* DependencyContainerProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyContainerProtocol.swift; sourceTree = "<group>"; };
+		936BFEF627FB5E69003A39E3 /* DataFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataFetcher.swift; sourceTree = "<group>"; };
 		93FB2CB227FAFA2C00BFA12C /* Finnezon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finnezon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonApp.swift; sourceTree = "<group>"; };
 		93FB2CB727FAFA2C00BFA12C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -87,6 +91,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		936BFEF427FB5E11003A39E3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		936BFEF527FB5E3C003A39E3 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				936BFEF627FB5E69003A39E3 /* DataFetcher.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 		93FB2CA927FAFA2C00BFA12C = {
 			isa = PBXGroup;
 			children = (
@@ -113,6 +132,8 @@
 				93FB2CE427FAFA4600BFA12C /* App */,
 				93FB2CE527FAFA4B00BFA12C /* Coordinators */,
 				93FB2CE627FAFA5200BFA12C /* Features */,
+				936BFEF527FB5E3C003A39E3 /* Services */,
+				936BFEF427FB5E11003A39E3 /* Model */,
 				93FB2CE727FAFA5900BFA12C /* Extensions */,
 				93FB2CE827FAFA6100BFA12C /* Common */,
 				93FB2CEA27FAFA6D00BFA12C /* Resources */,
@@ -350,6 +371,7 @@
 				93FB2CED27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
 				93FB2CF527FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
 				93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */,
+				936BFEF727FB5E69003A39E3 /* DataFetcher.swift in Sources */,
 				93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -359,6 +381,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93FB2CF627FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+				936BFEF827FB5E69003A39E3 /* DataFetcher.swift in Sources */,
 				93FB2CCC27FAFA2D00BFA12C /* FinnezonTests.swift in Sources */,
 				93FB2CEE27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
 			);
@@ -368,6 +391,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				936BFEF927FB5E69003A39E3 /* DataFetcher.swift in Sources */,
 				93FB2CD827FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift in Sources */,
 				93FB2CD627FAFA2D00BFA12C /* FinnezonUITests.swift in Sources */,
 				93FB2CEF27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
