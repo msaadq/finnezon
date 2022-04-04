@@ -1,0 +1,689 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */; };
+		93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB727FAFA2C00BFA12C /* ContentView.swift */; };
+		93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */; };
+		93FB2CBD27FAFA2D00BFA12C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */; };
+		93FB2CBF27FAFA2D00BFA12C /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CBE27FAFA2D00BFA12C /* Persistence.swift */; };
+		93FB2CC227FAFA2D00BFA12C /* Finnezon.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CC027FAFA2D00BFA12C /* Finnezon.xcdatamodeld */; };
+		93FB2CCC27FAFA2D00BFA12C /* FinnezonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CCB27FAFA2D00BFA12C /* FinnezonTests.swift */; };
+		93FB2CD627FAFA2D00BFA12C /* FinnezonUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CD527FAFA2D00BFA12C /* FinnezonUITests.swift */; };
+		93FB2CD827FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CD727FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift */; };
+		93FB2CED27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CEC27FAFB7500BFA12C /* HomeCoordinator.swift */; };
+		93FB2CEE27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CEC27FAFB7500BFA12C /* HomeCoordinator.swift */; };
+		93FB2CEF27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CEC27FAFB7500BFA12C /* HomeCoordinator.swift */; };
+		93FB2CF527FB012E00BFA12C /* SceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CF427FB012E00BFA12C /* SceneCoordinator.swift */; };
+		93FB2CF627FB012E00BFA12C /* SceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CF427FB012E00BFA12C /* SceneCoordinator.swift */; };
+		93FB2CF727FB012E00BFA12C /* SceneCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CF427FB012E00BFA12C /* SceneCoordinator.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		93FB2CC827FAFA2D00BFA12C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93FB2CAA27FAFA2C00BFA12C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93FB2CB127FAFA2C00BFA12C;
+			remoteInfo = Finnezon;
+		};
+		93FB2CD227FAFA2D00BFA12C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93FB2CAA27FAFA2C00BFA12C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93FB2CB127FAFA2C00BFA12C;
+			remoteInfo = Finnezon;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		93FB2CB227FAFA2C00BFA12C /* Finnezon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finnezon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonApp.swift; sourceTree = "<group>"; };
+		93FB2CB727FAFA2C00BFA12C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		93FB2CBE27FAFA2D00BFA12C /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		93FB2CC127FAFA2D00BFA12C /* Finnezon.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Finnezon.xcdatamodel; sourceTree = "<group>"; };
+		93FB2CC727FAFA2D00BFA12C /* FinnezonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinnezonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FB2CCB27FAFA2D00BFA12C /* FinnezonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonTests.swift; sourceTree = "<group>"; };
+		93FB2CD127FAFA2D00BFA12C /* FinnezonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinnezonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FB2CD527FAFA2D00BFA12C /* FinnezonUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonUITests.swift; sourceTree = "<group>"; };
+		93FB2CD727FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		93FB2CEC27FAFB7500BFA12C /* HomeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCoordinator.swift; sourceTree = "<group>"; };
+		93FB2CF427FB012E00BFA12C /* SceneCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneCoordinator.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		93FB2CAF27FAFA2C00BFA12C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CC427FAFA2D00BFA12C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CCE27FAFA2D00BFA12C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		93FB2CA927FAFA2C00BFA12C = {
+			isa = PBXGroup;
+			children = (
+				93FB2CB427FAFA2C00BFA12C /* Finnezon */,
+				93FB2CCA27FAFA2D00BFA12C /* FinnezonTests */,
+				93FB2CD427FAFA2D00BFA12C /* FinnezonUITests */,
+				93FB2CB327FAFA2C00BFA12C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		93FB2CB327FAFA2C00BFA12C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CB227FAFA2C00BFA12C /* Finnezon.app */,
+				93FB2CC727FAFA2D00BFA12C /* FinnezonTests.xctest */,
+				93FB2CD127FAFA2D00BFA12C /* FinnezonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		93FB2CB427FAFA2C00BFA12C /* Finnezon */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CE427FAFA4600BFA12C /* App */,
+				93FB2CE527FAFA4B00BFA12C /* Coordinators */,
+				93FB2CE627FAFA5200BFA12C /* Features */,
+				93FB2CE727FAFA5900BFA12C /* Extensions */,
+				93FB2CE827FAFA6100BFA12C /* Common */,
+				93FB2CEA27FAFA6D00BFA12C /* Resources */,
+				93FB2CE927FAFA6600BFA12C /* Metadata */,
+				93FB2CBB27FAFA2D00BFA12C /* Preview Content */,
+			);
+			path = Finnezon;
+			sourceTree = "<group>";
+		};
+		93FB2CBB27FAFA2D00BFA12C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		93FB2CCA27FAFA2D00BFA12C /* FinnezonTests */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CCB27FAFA2D00BFA12C /* FinnezonTests.swift */,
+			);
+			path = FinnezonTests;
+			sourceTree = "<group>";
+		};
+		93FB2CD427FAFA2D00BFA12C /* FinnezonUITests */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CD527FAFA2D00BFA12C /* FinnezonUITests.swift */,
+				93FB2CD727FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift */,
+			);
+			path = FinnezonUITests;
+			sourceTree = "<group>";
+		};
+		93FB2CE427FAFA4600BFA12C /* App */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		93FB2CE527FAFA4B00BFA12C /* Coordinators */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CF427FB012E00BFA12C /* SceneCoordinator.swift */,
+				93FB2CEC27FAFB7500BFA12C /* HomeCoordinator.swift */,
+			);
+			path = Coordinators;
+			sourceTree = "<group>";
+		};
+		93FB2CE627FAFA5200BFA12C /* Features */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CB727FAFA2C00BFA12C /* ContentView.swift */,
+			);
+			path = Features;
+			sourceTree = "<group>";
+		};
+		93FB2CE727FAFA5900BFA12C /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		93FB2CE827FAFA6100BFA12C /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CEB27FAFAB300BFA12C /* Persistence */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
+		93FB2CE927FAFA6600BFA12C /* Metadata */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Metadata;
+			sourceTree = "<group>";
+		};
+		93FB2CEA27FAFA6D00BFA12C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		93FB2CEB27FAFAB300BFA12C /* Persistence */ = {
+			isa = PBXGroup;
+			children = (
+				93FB2CBE27FAFA2D00BFA12C /* Persistence.swift */,
+				93FB2CC027FAFA2D00BFA12C /* Finnezon.xcdatamodeld */,
+			);
+			path = Persistence;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		93FB2CB127FAFA2C00BFA12C /* Finnezon */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FB2CDB27FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "Finnezon" */;
+			buildPhases = (
+				93FB2CAE27FAFA2C00BFA12C /* Sources */,
+				93FB2CAF27FAFA2C00BFA12C /* Frameworks */,
+				93FB2CB027FAFA2C00BFA12C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Finnezon;
+			productName = Finnezon;
+			productReference = 93FB2CB227FAFA2C00BFA12C /* Finnezon.app */;
+			productType = "com.apple.product-type.application";
+		};
+		93FB2CC627FAFA2D00BFA12C /* FinnezonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FB2CDE27FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "FinnezonTests" */;
+			buildPhases = (
+				93FB2CC327FAFA2D00BFA12C /* Sources */,
+				93FB2CC427FAFA2D00BFA12C /* Frameworks */,
+				93FB2CC527FAFA2D00BFA12C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93FB2CC927FAFA2D00BFA12C /* PBXTargetDependency */,
+			);
+			name = FinnezonTests;
+			productName = FinnezonTests;
+			productReference = 93FB2CC727FAFA2D00BFA12C /* FinnezonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		93FB2CD027FAFA2D00BFA12C /* FinnezonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FB2CE127FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "FinnezonUITests" */;
+			buildPhases = (
+				93FB2CCD27FAFA2D00BFA12C /* Sources */,
+				93FB2CCE27FAFA2D00BFA12C /* Frameworks */,
+				93FB2CCF27FAFA2D00BFA12C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93FB2CD327FAFA2D00BFA12C /* PBXTargetDependency */,
+			);
+			name = FinnezonUITests;
+			productName = FinnezonUITests;
+			productReference = 93FB2CD127FAFA2D00BFA12C /* FinnezonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		93FB2CAA27FAFA2C00BFA12C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					93FB2CB127FAFA2C00BFA12C = {
+						CreatedOnToolsVersion = 13.3;
+					};
+					93FB2CC627FAFA2D00BFA12C = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 93FB2CB127FAFA2C00BFA12C;
+					};
+					93FB2CD027FAFA2D00BFA12C = {
+						CreatedOnToolsVersion = 13.3;
+						TestTargetID = 93FB2CB127FAFA2C00BFA12C;
+					};
+				};
+			};
+			buildConfigurationList = 93FB2CAD27FAFA2C00BFA12C /* Build configuration list for PBXProject "Finnezon" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 93FB2CA927FAFA2C00BFA12C;
+			productRefGroup = 93FB2CB327FAFA2C00BFA12C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				93FB2CB127FAFA2C00BFA12C /* Finnezon */,
+				93FB2CC627FAFA2D00BFA12C /* FinnezonTests */,
+				93FB2CD027FAFA2D00BFA12C /* FinnezonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		93FB2CB027FAFA2C00BFA12C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93FB2CBD27FAFA2D00BFA12C /* Preview Assets.xcassets in Resources */,
+				93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CC527FAFA2D00BFA12C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CCF27FAFA2D00BFA12C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		93FB2CAE27FAFA2C00BFA12C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93FB2CC227FAFA2D00BFA12C /* Finnezon.xcdatamodeld in Sources */,
+				93FB2CBF27FAFA2D00BFA12C /* Persistence.swift in Sources */,
+				93FB2CED27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
+				93FB2CF527FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+				93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */,
+				93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CC327FAFA2D00BFA12C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93FB2CF627FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+				93FB2CCC27FAFA2D00BFA12C /* FinnezonTests.swift in Sources */,
+				93FB2CEE27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FB2CCD27FAFA2D00BFA12C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				93FB2CD827FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift in Sources */,
+				93FB2CD627FAFA2D00BFA12C /* FinnezonUITests.swift in Sources */,
+				93FB2CEF27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
+				93FB2CF727FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		93FB2CC927FAFA2D00BFA12C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93FB2CB127FAFA2C00BFA12C /* Finnezon */;
+			targetProxy = 93FB2CC827FAFA2D00BFA12C /* PBXContainerItemProxy */;
+		};
+		93FB2CD327FAFA2D00BFA12C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93FB2CB127FAFA2C00BFA12C /* Finnezon */;
+			targetProxy = 93FB2CD227FAFA2D00BFA12C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		93FB2CD927FAFA2D00BFA12C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		93FB2CDA27FAFA2D00BFA12C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		93FB2CDC27FAFA2D00BFA12C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Finnezon/Preview Content\"";
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.Finnezon;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		93FB2CDD27FAFA2D00BFA12C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Finnezon/Preview Content\"";
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.Finnezon;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		93FB2CDF27FAFA2D00BFA12C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.FinnezonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Finnezon.app/Finnezon";
+			};
+			name = Debug;
+		};
+		93FB2CE027FAFA2D00BFA12C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.FinnezonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Finnezon.app/Finnezon";
+			};
+			name = Release;
+		};
+		93FB2CE227FAFA2D00BFA12C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.FinnezonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Finnezon;
+			};
+			name = Debug;
+		};
+		93FB2CE327FAFA2D00BFA12C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YQB3TL427;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.saad.example.FinnezonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Finnezon;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		93FB2CAD27FAFA2C00BFA12C /* Build configuration list for PBXProject "Finnezon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FB2CD927FAFA2D00BFA12C /* Debug */,
+				93FB2CDA27FAFA2D00BFA12C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FB2CDB27FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "Finnezon" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FB2CDC27FAFA2D00BFA12C /* Debug */,
+				93FB2CDD27FAFA2D00BFA12C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FB2CDE27FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "FinnezonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FB2CDF27FAFA2D00BFA12C /* Debug */,
+				93FB2CE027FAFA2D00BFA12C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FB2CE127FAFA2D00BFA12C /* Build configuration list for PBXNativeTarget "FinnezonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FB2CE227FAFA2D00BFA12C /* Debug */,
+				93FB2CE327FAFA2D00BFA12C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		93FB2CC027FAFA2D00BFA12C /* Finnezon.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				93FB2CC127FAFA2D00BFA12C /* Finnezon.xcdatamodel */,
+			);
+			currentVersion = 93FB2CC127FAFA2D00BFA12C /* Finnezon.xcdatamodel */;
+			path = Finnezon.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 93FB2CAA27FAFA2C00BFA12C /* Project object */;
+}
