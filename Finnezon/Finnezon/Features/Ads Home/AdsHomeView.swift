@@ -25,6 +25,7 @@ struct AdsHomeView: View {
                     .font(.caption)
             case .failed(let error):
                 showErrorView(error: error)
+                    .padding(.horizontal, 40)
             case .loaded:
                 content
             }
@@ -32,29 +33,35 @@ struct AdsHomeView: View {
         .onAppear(perform: viewModel.retrieveAllAds)
     }
 
-    // MARK: - UI Elements
-
     @ViewBuilder
     var content: some View {
         VStack {
-            Toggle(isOn: $viewModel.showingFavourites) {
-                HStack {
-                    Spacer()
-                    Text("Favourites Only")
-                        .font(.title3)
-                        .padding(.horizontal)
+            favouritesToggle
+                .tint(accentColor)
+            adsList
+                .listStyle(.grouped)
+                .onAppear {
+                    UITableView.appearance().contentInset.top = -35
                 }
+        }
+    }
+
+    var adsList: some View {
+        List {
+            ForEach(viewModel.displayedAdItems) { item in
+                AdItemView(viewModel: .init(adItem: item, dependencyContainer: viewModel.dependencyContainer))
+                    .listRowSeparator(.hidden)
             }
-            .tint(accentColor)
-            List {
-                ForEach(viewModel.displayedAdItems) { item in
-                    AdItemView(viewModel: .init(adItem: item, dependencyContainer: viewModel.dependencyContainer))
-                        .listRowSeparator(.hidden)
-                }
-            }
-            .listStyle(.grouped)
-            .onAppear {
-                UITableView.appearance().contentInset.top = -35
+        }
+    }
+
+    var favouritesToggle: some View {
+        Toggle(isOn: $viewModel.showingFavourites) {
+            HStack {
+                Spacer()
+                Text("Favourites Only")
+                    .font(.title3)
+                    .padding(.horizontal)
             }
         }
     }
@@ -88,7 +95,6 @@ struct AdsHomeView: View {
                     .shadow(radius: 2)
             }
         }
-        .padding(.horizontal, 40)
     }
 }
 

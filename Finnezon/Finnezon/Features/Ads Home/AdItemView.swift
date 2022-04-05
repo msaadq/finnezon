@@ -16,86 +16,95 @@ struct AdItemView: View {
         self.viewModel = viewModel
     }
 
+    // MARK: - Body
+
     var body: some View {
         content
+            .background(Color.white)
+            .cornerRadius(20)
+            .overlay(
+                RoundedRectangle(cornerRadius: 20)
+                    .stroke(Color.black, lineWidth: 0.1)
+            )
     }
 
     @ViewBuilder
     var content: some View {
         VStack {
-            ZStack(alignment: .bottom) {
-                AsyncImage(url: viewModel.photoURL) { phase in
-                    if let image = phase.image {
-                        image.resizable()
-                            .aspectRatio(contentMode: .fill)
-                            .frame(height: 180)
-                            .clipped()
-                    } else if phase.error != nil {
-                        Image(systemName: "photo")
-                            .resizable()
-                            .foregroundColor(accentColor)
-                            .aspectRatio(contentMode: .fit)
-                            .padding(30)
-                            .frame(height: 180)
-                    } else {
-                        ProgressView()
-                            .frame(height: 180)
-                    }
-                }
-
-                LinearGradient(gradient: Gradient(colors: [.black.opacity(0), .black.opacity(0.7)]), startPoint: .top, endPoint: .bottom)
-                    .frame(height: 50)
-
-                HStack(alignment: .center) {
-                    Text(viewModel.adTypeLabel)
-                        .font(.caption2)
-                        .foregroundColor(.white)
-                        .padding(.horizontal, 6)
-                        .padding(.vertical, 4)
-                        .background(accentColor)
-                        .cornerRadius(20)
-                    Spacer()
-                    Text(viewModel.priceLabel)
-                        .font(.headline)
-                        .foregroundColor(.white)
-                }
+            imageWithOverlay
+            cardDescription
                 .padding(.horizontal, 14)
-                .padding(.bottom, 8)
-            }
+                .padding(.bottom, 14)
+        }
+    }
 
-            HStack {
-                VStack(alignment: .leading, spacing: 4) {
-                    Text(viewModel.titleLabel ?? "")
-                        .lineLimit(1)
-                        .font(.title3)
-                    HStack {
-                        Image(systemName: "location.circle.fill")
-                            .foregroundColor(accentColor)
-                        Text(viewModel.LocationLabel ?? "")
-                            .font(.footnote)
-                    }
-                }
-                Spacer()
-
-                Button {
-                    viewModel.toggleFavouriteStatus()
-                } label: {
-                    Image(systemName: viewModel.isFavourite ? "heart.fill" : "heart")
+    var imageWithOverlay: some View {
+        ZStack(alignment: .bottom) {
+            AsyncImage(url: viewModel.photoURL) { phase in
+                if let image = phase.image {
+                    image.resizable()
+                        .aspectRatio(contentMode: .fill)
+                        .frame(height: 180)
+                        .clipped()
+                } else if phase.error != nil {
+                    Image(systemName: "photo")
                         .resizable()
                         .foregroundColor(accentColor)
                         .aspectRatio(contentMode: .fit)
-                        .frame(height: 20)
+                        .padding(30)
+                        .frame(height: 180)
+                } else {
+                    ProgressView()
+                        .frame(height: 180)
                 }
             }
+
+            LinearGradient(gradient: Gradient(colors: [.black.opacity(0), .black.opacity(0.7)]), startPoint: .top, endPoint: .bottom)
+                .frame(height: 50)
+
+            HStack(alignment: .center) {
+                Text(viewModel.adTypeLabel)
+                    .font(.caption2)
+                    .foregroundColor(.white)
+                    .padding(.horizontal, 6)
+                    .padding(.vertical, 4)
+                    .background(accentColor)
+                    .cornerRadius(20)
+                Spacer()
+                Text(viewModel.priceLabel)
+                    .font(.headline)
+                    .foregroundColor(.white)
+            }
             .padding(.horizontal, 14)
-            .padding(.bottom, 14)
+            .padding(.bottom, 8)
         }
-        .background(Color.white)
-        .cornerRadius(20)
-        .overlay(
-            RoundedRectangle(cornerRadius: 20)
-                .stroke(Color.black, lineWidth: 0.1)
-        )
+    }
+
+    var cardDescription: some View {
+        HStack {
+            VStack(alignment: .leading, spacing: 4) {
+                Text(viewModel.titleLabel ?? "")
+                    .lineLimit(1)
+                    .font(.title3)
+                HStack {
+                    Image(systemName: "location.circle.fill")
+                        .foregroundColor(accentColor)
+                    Text(viewModel.LocationLabel ?? "")
+                        .font(.footnote)
+                }
+            }
+            Spacer()
+
+            Button {
+                viewModel.toggleFavouriteStatus()
+            } label: {
+                Image(systemName: viewModel.isFavourite ? "heart.fill" : "heart")
+                    .resizable()
+                    .foregroundColor(accentColor)
+                    .aspectRatio(contentMode: .fit)
+                    .frame(height: 20)
+            }
+        }
     }
 }
 
