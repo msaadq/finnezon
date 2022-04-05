@@ -10,13 +10,15 @@ import SwiftUI
 struct AdsHomeView: View {
     @ObservedObject var viewModel: AdsHomeViewModel
 
+    private let accentColor = Color.cyan
+
     // MARK: - Body
 
     var body: some View {
         Group {
             switch viewModel.state {
             case .idle:
-                Text("Idle")
+                Text("idle")
             case .loading:
                 ProgressView("Loading Ads...")
                     .scaleEffect(2)
@@ -27,20 +29,34 @@ struct AdsHomeView: View {
                 content
             }
         }
-        .task { viewModel.retrieveAllAds() }
+        .onAppear(perform: viewModel.retrieveAllAds)
     }
 
     // MARK: - UI Elements
 
     @ViewBuilder
     var content: some View {
-        List {
-            ForEach(viewModel.adItems) { item in
-                AdItemView(viewModel: .init(adItem: item, dependencyContainer: viewModel.dependencyContainer))
-                    .listRowSeparator(.hidden)
+        VStack {
+            Toggle(isOn: $viewModel.showingFavourites) {
+                HStack {
+                    Spacer()
+                    Text("Favourites Only")
+                        .font(.title3)
+                        .padding(.horizontal)
+                }
+            }
+            .tint(accentColor)
+            List {
+                ForEach(viewModel.displayedAdItems) { item in
+                    AdItemView(viewModel: .init(adItem: item, dependencyContainer: viewModel.dependencyContainer))
+                        .listRowSeparator(.hidden)
+                }
+            }
+            .listStyle(.grouped)
+            .onAppear {
+                UITableView.appearance().contentInset.top = -35
             }
         }
-        .listStyle(.grouped)
     }
 
     @ViewBuilder

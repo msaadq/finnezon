@@ -11,6 +11,7 @@ class AdsHomeViewModel: ObservableObject {
     var dependencyContainer: DependencyContainerProtocol
     private var coordinator: HomeCoordinator?
     private var cancellables = Set<AnyCancellable>()
+    private var allAdItems = [AdItem]()
 
     enum State {
         case idle
@@ -19,12 +20,24 @@ class AdsHomeViewModel: ObservableObject {
         case loaded
     }
 
-    @Published var adItems = [AdItem]()
+    @Published var displayedAdItems = [AdItem]()
     @Published var state = State.idle
+    @Published var showingFavourites = false
 
     init(dependencyContainer: DependencyContainerProtocol = PreviewDependencyContainer(), coordinator: HomeCoordinator? = nil) {
         self.dependencyContainer = PreviewDependencyContainer()
         self.coordinator = coordinator
+
+        $showingFavourites
+            .sink { [weak self] value in
+                guard let strongSelf = self else { return }
+                if value == true {
+                    strongSelf.displayedAdItems = strongSelf.allAdItems.filter { $0.isFavourite }
+                } else {
+                    strongSelf.displayedAdItems = strongSelf.allAdItems
+                }
+            }
+            .store(in: &cancellables)
     }
 
     func retrieveAllAds() {
@@ -35,7 +48,8 @@ class AdsHomeViewModel: ObservableObject {
                     self?.state = .failed(error)
                 }
             } receiveValue: { [weak self] adItems in
-                self?.adItems = adItems
+                self?.allAdItems = adItems
+                self?.displayedAdItems = adItems
                 self?.state = .loaded
             }
             .store(in: &cancellables)
