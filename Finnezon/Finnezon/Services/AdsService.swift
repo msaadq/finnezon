@@ -15,7 +15,9 @@ protocol AdsServiceProtocol {
 }
 
 public enum AdsServiceError: LocalizedError {
+    // Errors related to datafetcher which are propagated by the DataFetcher
     case dataFetcherError(DataFetcherError)
+    // Error for when the returned list of ads is empty
     case noAds
 
     public var errorDescription: String? {

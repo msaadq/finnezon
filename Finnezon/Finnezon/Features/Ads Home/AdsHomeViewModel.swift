@@ -28,6 +28,7 @@ class AdsHomeViewModel: ObservableObject {
         self.dependencyContainer = PreviewDependencyContainer()
         self.coordinator = coordinator
 
+        // Filtering the shown items
         $showingFavourites
             .sink { [weak self] value in
                 guard let strongSelf = self else { return }

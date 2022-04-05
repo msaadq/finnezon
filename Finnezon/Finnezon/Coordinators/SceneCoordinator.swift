@@ -53,8 +53,4 @@ final class SceneCoordinator: CoordinatorProtocol {
         let homeCoordinator = HomeCoordinator(navigationController: navigationController, dependencyContainer: dependencyContainer)
         homeCoordinator.start()
     }
-
-    func didLaunchFavourites() {
-
-    }
 }

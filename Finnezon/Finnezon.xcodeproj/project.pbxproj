@@ -173,7 +173,6 @@
 				93FB2CE627FAFA5200BFA12C /* Features */,
 				936BFEF527FB5E3C003A39E3 /* Services */,
 				936BFEF427FB5E11003A39E3 /* Model */,
-				93FB2CE727FAFA5900BFA12C /* Extensions */,
 				93FB2CE827FAFA6100BFA12C /* Common */,
 				93FB2CEA27FAFA6D00BFA12C /* Resources */,
 				93FB2CE927FAFA6600BFA12C /* Metadata */,
@@ -231,13 +230,6 @@
 				936BFF0E27FBBD0D003A39E3 /* Ads Home */,
 			);
 			path = Features;
-			sourceTree = "<group>";
-		};
-		93FB2CE727FAFA5900BFA12C /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Extensions;
 			sourceTree = "<group>";
 		};
 		93FB2CE827FAFA6100BFA12C /* Common */ = {

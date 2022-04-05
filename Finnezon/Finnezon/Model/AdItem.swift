@@ -19,6 +19,7 @@ struct AdItem: Codable, Identifiable {
 
     var isFavourite: Bool {
         set {
+            // storing of favourite ads ids in user defaults
             var favouriteAds: [String] = [self.id]
             if let savedFavourites = UserDefaults.standard.array(forKey: "favourite-ads-ids") as? [String] {
                 favouriteAds += savedFavourites

@@ -8,58 +8,23 @@
 import Foundation
 import Combine
 
-/// Types conforming to the `DataFetcher` protocol are expected to handle URL requests to return either data or an error.
 public protocol DataFetcherProtocol {
-    /// Perform a URL request without decoding the result and return a publisher.
-    /// - Parameters:
-    ///     - request: The request to perform.
-    /// - Returns:
-    ///     - AnyPublisher: The Publisher that can be subcribed to
     func perform(request: URLRequest) -> AnyPublisher<Data, DataFetcherError>
-
-    /// Perform a URL request and decodes the result.
-    /// - Parameters:
-    ///     - request: The request to perform.
-    ///     - object: The type of value to decode.
-    /// - Returns:
-    ///     - AnyPublisher: The Publisher that can be subcribed to
     func perform<T: Codable>(request: URLRequest, for object: T.Type) -> AnyPublisher<T, DataFetcherError>
 }
 
-/// An error that occurs during while `DataFetcher` is performing a request
 public enum DataFetcherError: LocalizedError {
-    /// Errors occuring in the network (tcp/http) layers:
-    /// - Parameters:
-    ///     - error: The underlying error.
+    // Errors occuring in the network (tcp/http) layers
     case networkError(Error)
-
-    /// Errors occuring on the server and reported to us:
-    /// - Parameters:
-    ///     - description: A description of the error.
+    // Errors occuring on the server and reported to us
     case serverError(description: String, errorCode: Int)
-
-    /// Errors related to the data we received, i.e. missing data
-    /// or corrupted data
-    /// - Parameters:
-    ///     - description: A description of the error.
+    // Errors related to the data we received, i.e. missing data
     case dataError(description: String)
-
-    /// Errors related to parsing the data we received
-    /// - Parameters:
-    ///     - description: A description of the error.
+    // Errors related to parsing the data we received
     case parseError(description: String)
-
-    /// Other errors:
-    /// - Parameters:
-    ///     - description: A description of the error.
+    // Other errors:
     case genericError(description: String)
 
-    /// Error used to indicate a request was cancelled. Upstream
-    /// clients can use this to understand that this was not an actual
-    /// error but a cancellation.
-    case cancelled
-
-    /// The description of the error
     public var errorDescription: String? {
         switch self {
         case .networkError(let error):
@@ -72,8 +37,6 @@ public enum DataFetcherError: LocalizedError {
             return description
         case .genericError(description: let description):
             return description
-        case .cancelled:
-            return ""
         }
     }
 }

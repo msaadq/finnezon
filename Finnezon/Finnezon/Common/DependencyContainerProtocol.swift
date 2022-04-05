@@ -23,6 +23,7 @@ final class PreviewDependencyContainer: DependencyContainerProtocol {
     var adsService: AdsServiceProtocol
 
     init() {
+        // Utilizes the saved JSON of items in the project for testing and preview purposes
         self.adsService = MockAdsService()
     }
 }

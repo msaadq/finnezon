@@ -22,6 +22,7 @@ struct FinnezonApp: App {
 
     var body: some Scene {
         WindowGroup {
+            // Placeholder View as there is no other workaround to access UIWindow in a SwiftUI lifecycle app
             Text("")
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
                 .preferredColorScheme(.light)
