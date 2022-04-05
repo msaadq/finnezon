@@ -10,10 +10,14 @@ import Foundation
 class AdItemViewModel: ObservableObject {
     private var adItem: AdItem
     private let dependencyContainer: DependencyContainerProtocol
+    private let currencyFormatter: NumberFormatter
 
     init(adItem: AdItem, dependencyContainer: DependencyContainerProtocol) {
         self.adItem = adItem
         self.dependencyContainer = dependencyContainer
+
+        self.currencyFormatter = NumberFormatter()
+        self.currencyFormatter.numberStyle = .currency
     }
 
     var adTypeLabel: String {
@@ -21,8 +25,8 @@ class AdItemViewModel: ObservableObject {
     }
 
     var priceLabel: String {
-        if let price = adItem.price {
-            return "\(price.value)"
+        if let price = adItem.price, let formattedCurrency = currencyFormatter.string(from: NSNumber(value: price.value)) {
+            return formattedCurrency
         } else {
             return "Free"
         }
