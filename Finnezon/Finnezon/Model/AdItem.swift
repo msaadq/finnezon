@@ -17,6 +17,30 @@ struct AdItem: Codable, Identifiable {
     let image: Image?
     let score: Double?
 
+    var isFavourite: Bool {
+        set {
+            var favouriteAds: [String] = [self.id]
+            if let savedFavourites = UserDefaults.standard.array(forKey: "favourite-ads-ids") as? [String] {
+                favouriteAds += savedFavourites
+            }
+            if newValue == false {
+                favouriteAds.removeAll { $0 == self.id }
+            }
+            UserDefaults.standard.set(favouriteAds, forKey: "favourite-ads-ids")
+        }
+
+        get {
+            if
+                let favouriteAds = UserDefaults.standard.array(forKey: "favourite-ads-ids") as? [String],
+                favouriteAds.contains(self.id)
+            {
+                return true
+            } else {
+                return false
+            }
+        }
+    }
+
     enum CodingKeys: String, CodingKey {
         case id
         case adType = "ad-type"
