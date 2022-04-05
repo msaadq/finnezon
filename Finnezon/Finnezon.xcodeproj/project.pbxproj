@@ -27,8 +27,13 @@
 		936BFF0B27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
 		936BFF0C27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
 		936BFF0D27FBABBD003A39E3 /* ad-items-response.json in Resources */ = {isa = PBXBuildFile; fileRef = 936BFF0A27FBABBD003A39E3 /* ad-items-response.json */; };
+		936BFF1027FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0F27FBBD3E003A39E3 /* AdItemViewModel.swift */; };
+		936BFF1127FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0F27FBBD3E003A39E3 /* AdItemViewModel.swift */; };
+		936BFF1227FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF0F27FBBD3E003A39E3 /* AdItemViewModel.swift */; };
+		936BFF1427FBBD48003A39E3 /* AdItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF1327FBBD48003A39E3 /* AdItemView.swift */; };
+		936BFF1527FBBD48003A39E3 /* AdItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF1327FBBD48003A39E3 /* AdItemView.swift */; };
+		936BFF1627FBBD48003A39E3 /* AdItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 936BFF1327FBBD48003A39E3 /* AdItemView.swift */; };
 		93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */; };
-		93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CB727FAFA2C00BFA12C /* ContentView.swift */; };
 		93FB2CBA27FAFA2D00BFA12C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */; };
 		93FB2CBD27FAFA2D00BFA12C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */; };
 		93FB2CBF27FAFA2D00BFA12C /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FB2CBE27FAFA2D00BFA12C /* Persistence.swift */; };
@@ -70,9 +75,10 @@
 		936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsHomeViewModel.swift; sourceTree = "<group>"; };
 		936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsHomeView.swift; sourceTree = "<group>"; };
 		936BFF0A27FBABBD003A39E3 /* ad-items-response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "ad-items-response.json"; sourceTree = "<group>"; };
+		936BFF0F27FBBD3E003A39E3 /* AdItemViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdItemViewModel.swift; sourceTree = "<group>"; };
+		936BFF1327FBBD48003A39E3 /* AdItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdItemView.swift; sourceTree = "<group>"; };
 		93FB2CB227FAFA2C00BFA12C /* Finnezon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Finnezon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93FB2CB527FAFA2C00BFA12C /* FinnezonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinnezonApp.swift; sourceTree = "<group>"; };
-		93FB2CB727FAFA2C00BFA12C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		93FB2CB927FAFA2D00BFA12C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93FB2CBC27FAFA2D00BFA12C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		93FB2CBE27FAFA2D00BFA12C /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
@@ -126,6 +132,17 @@
 				936BFEFE27FBA2C7003A39E3 /* AdsService.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		936BFF0E27FBBD0D003A39E3 /* Ads Home */ = {
+			isa = PBXGroup;
+			children = (
+				936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */,
+				936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */,
+				936BFF1327FBBD48003A39E3 /* AdItemView.swift */,
+				936BFF0F27FBBD3E003A39E3 /* AdItemViewModel.swift */,
+			);
+			path = "Ads Home";
 			sourceTree = "<group>";
 		};
 		93FB2CA927FAFA2C00BFA12C = {
@@ -211,9 +228,7 @@
 		93FB2CE627FAFA5200BFA12C /* Features */ = {
 			isa = PBXGroup;
 			children = (
-				93FB2CB727FAFA2C00BFA12C /* ContentView.swift */,
-				936BFF0227FBAA2B003A39E3 /* AdsHomeViewModel.swift */,
-				936BFF0627FBAA35003A39E3 /* AdsHomeView.swift */,
+				936BFF0E27FBBD0D003A39E3 /* Ads Home */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -402,7 +417,8 @@
 				936BFF0327FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */,
 				936BFEFF27FBA2C7003A39E3 /* AdsService.swift in Sources */,
 				93FB2CF527FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
-				93FB2CB827FAFA2C00BFA12C /* ContentView.swift in Sources */,
+				936BFF1427FBBD48003A39E3 /* AdItemView.swift in Sources */,
+				936BFF1027FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */,
 				936BFEF727FB5E69003A39E3 /* DataFetcher.swift in Sources */,
 				93FB2CB627FAFA2C00BFA12C /* FinnezonApp.swift in Sources */,
 			);
@@ -415,8 +431,10 @@
 				936BFF0827FBAA35003A39E3 /* AdsHomeView.swift in Sources */,
 				936BFEFC27FB9EAF003A39E3 /* AdItem.swift in Sources */,
 				93FB2CF627FB012E00BFA12C /* SceneCoordinator.swift in Sources */,
+				936BFF1127FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */,
 				936BFF0027FBA2C7003A39E3 /* AdsService.swift in Sources */,
 				936BFEF827FB5E69003A39E3 /* DataFetcher.swift in Sources */,
+				936BFF1527FBBD48003A39E3 /* AdItemView.swift in Sources */,
 				93FB2CCC27FAFA2D00BFA12C /* FinnezonTests.swift in Sources */,
 				936BFF0427FBAA2B003A39E3 /* AdsHomeViewModel.swift in Sources */,
 				93FB2CEE27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
@@ -428,7 +446,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				936BFEF927FB5E69003A39E3 /* DataFetcher.swift in Sources */,
+				936BFF1627FBBD48003A39E3 /* AdItemView.swift in Sources */,
 				93FB2CD827FAFA2D00BFA12C /* FinnezonUITestsLaunchTests.swift in Sources */,
+				936BFF1227FBBD3E003A39E3 /* AdItemViewModel.swift in Sources */,
 				936BFF0127FBA2C7003A39E3 /* AdsService.swift in Sources */,
 				93FB2CD627FAFA2D00BFA12C /* FinnezonUITests.swift in Sources */,
 				93FB2CEF27FAFB7500BFA12C /* HomeCoordinator.swift in Sources */,
@@ -577,7 +597,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Finnezon/Preview Content\"";
-				DEVELOPMENT_TEAM = 5YQB3TL427;
+				DEVELOPMENT_TEAM = DLFLF8ZQDD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -585,6 +605,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -606,7 +627,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Finnezon/Preview Content\"";
-				DEVELOPMENT_TEAM = 5YQB3TL427;
+				DEVELOPMENT_TEAM = DLFLF8ZQDD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -614,6 +635,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

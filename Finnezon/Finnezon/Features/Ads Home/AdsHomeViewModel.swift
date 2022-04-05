@@ -8,11 +8,19 @@
 import Combine
 
 class AdsHomeViewModel: ObservableObject {
-    private var dependencyContainer: DependencyContainerProtocol
+    var dependencyContainer: DependencyContainerProtocol
     private var coordinator: HomeCoordinator?
     private var cancellables = Set<AnyCancellable>()
 
+    enum State {
+        case idle
+        case loading
+        case failed(AdsServiceError)
+        case loaded
+    }
+
     @Published var adItems = [AdItem]()
+    @Published var state = State.idle
 
     init(dependencyContainer: DependencyContainerProtocol = PreviewDependencyContainer(), coordinator: HomeCoordinator? = nil) {
         self.dependencyContainer = PreviewDependencyContainer()
@@ -20,13 +28,15 @@ class AdsHomeViewModel: ObservableObject {
     }
 
     func retrieveAllAds() {
+        state = .loading
         dependencyContainer.adsService.loadAllAds()
-            .sink { completion in
+            .sink { [weak self] completion in
                 if case let .failure(error) = completion {
-                    print(error.localizedDescription)
+                    self?.state = .failed(error)
                 }
-            } receiveValue: { adItems in
-                self.adItems = adItems
+            } receiveValue: { [weak self] adItems in
+                self?.adItems = adItems
+                self?.state = .loaded
             }
             .store(in: &cancellables)
     }

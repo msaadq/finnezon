@@ -46,7 +46,7 @@ final class AdsService: AdsServiceProtocol {
     struct ImagesAPI {
         static let scheme = "https"
         static let host = "images.finncdn.no"
-        static let path = "/dynamic/480x360c"
+        static let path = "/dynamic/480x360c/"
     }
 
     // MARK: - Endpoint
@@ -54,7 +54,7 @@ final class AdsService: AdsServiceProtocol {
         case allAds
         case image(imageURL: String)
 
-        func request() -> URLRequest {
+        func url() -> URL {
             var components = URLComponents()
 
             switch self {
@@ -72,14 +72,14 @@ final class AdsService: AdsServiceProtocol {
                 fatalError("API Implementation Error")
             }
 
-            return URLRequest(url: url)
+            return url
         }
     }
 
     // MARK: - Public API Methods
     func loadAllAds() -> AnyPublisher<[AdItem], AdsServiceError> {
         dataFetcher.perform(
-            request: Endpoint.allAds.request(),
+            request: URLRequest(url: Endpoint.allAds.url()),
             for: AdItemsResponse.self
         )
             .tryMap { adItemsResponse in

@@ -22,8 +22,9 @@ struct FinnezonApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text("")
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
+                .preferredColorScheme(.light)
                 .onAppear {
                     guard let window = window else { return }
                     

@@ -17,8 +17,6 @@ final class SceneCoordinator: CoordinatorProtocol {
     private(set) var parentCoordinator: CoordinatorProtocol?
     private(set) var childCoordinators = [CoordinatorProtocol]()
 
-    private let tabBarController = UITabBarController()
-
     // MARK: - Life Cycle
 
     init(window: UIWindow, dependencyContainer: DependencyContainerProtocol) {
@@ -44,10 +42,11 @@ final class SceneCoordinator: CoordinatorProtocol {
     // MARK: - SceneCoordinator
 
     func setupTabs() {
-        window.rootViewController = tabBarController
+        window.rootViewController = self.navigationController
         window.makeKeyAndVisible()
 
-        tabBarController.viewControllers = [navigationController]
+        self.navigationController.navigationBar.prefersLargeTitles = true
+        self.navigationController.navigationBar.barTintColor = UIColor.white
     }
 
     func didLaunchHome() {
